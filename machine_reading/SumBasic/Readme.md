@@ -1,0 +1,1 @@
+Produces a summary of a set of texts in the form of CDSs using Sumbasic method.
