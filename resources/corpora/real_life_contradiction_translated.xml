@@ -1,0 +1,526 @@
+<entailment-corpus>
+<pair id ='001' contradiction = 'YES' type ='negation'>
+      <t>Tariq Aziz n'était pas considéré comme un membre du cercle le plus intime de Saddam.</t>
+      <h>Tariq Aziz était dans le cercle intérieur de Saddam.</h>
+</pair>
+<pair id ='002' contradiction = 'YES' type ='lexical'>
+      <t>Tariq Aziz se tenait à l'extérieur du cercle fermé des copains musulmans sunnites de Saddam.</t>
+      <h>Tariq Aziz était dans le cercle intérieur de Saddam.</h>
+</pair>
+<pair id ='003' contradiction = 'YES' type ='negation'>
+      <t>Tariq Aziz n'était pas l'un des personnages les plus puissants du régime de Saddam.</t>
+      <h>Tariq Aziz occupait une place importante dans le régime.</h>
+</pair>
+<pair id ='004' contradiction = 'YES' type ='lexical'>
+      <t>Tariq Aziz a conservé son influence.</t>
+      <h>Aziz n'avait pratiquement aucun pouvoir.</h>
+</pair>
+<pair id ='005' contradiction = 'YES' type ='numeric'>
+      <t>Alexandros Yiotopoulos a 58 ans.</t>
+      <h>Alexandros Yiotopoulos a 59 ans.</h>
+</pair>
+<pair id ='006' contradiction = 'YES' type ='numeric'>
+      <t>213 personnes ont été tuées.</t>
+      <h>219 personnes ont été tuées.</h>
+</pair>
+<pair id ='007' contradiction = 'YES' type ='WK'>
+      <t>Al-zarqawi était palestinien.</t>
+      <h>Al-zarqawi était jordanien.</h>
+</pair>
+<pair id ='008' contradiction = 'YES' type ='antonym'>
+      <t>Al-zarqawi était droitier.</t>
+      <h>Al-zarqawi était gaucher.</h>
+</pair>
+<pair id ='009' contradiction = 'YES' type ='negation'>
+      <t>Personne n'a été arrêté dans l'affaire ".</t>
+      <h>Collin Finnerty a été arrêtée pour infraction sexuelle.</h>
+</pair>
+<pair id ='010' contradiction = 'YES' type ='negation'>
+      <t>Personne n'a été arrêté dans l'affaire.</t>
+      <h>Deux derniers joueurs de Duke lacrosse ont été arrêtés.</h>
+</pair>
+<pair id ='011' contradiction = 'YES' type ='antonym'>
+      <t>Zarqawi a effectivement survécu à l'attaque aérienne.</t>
+      <h>Abu Musab al-Zarqawi a été tué dans une crise aérienne.</h>
+</pair>
+<pair id ='012' contradiction = 'YES' type ='lexical'>
+      <t>Zarqawi a effectivement survécu à l'attaque aérienne.</t>
+      <h>Une attaque aérienne a mis fin à la vie d'al-Zarqawi.</h>
+</pair>
+<pair id ='013' contradiction = 'YES' type ='WK'>
+      <t>Abu Musab al-Zarqawi, était un leader terroriste jordanien.</t>
+      <h>Al-Zarqawi était palestinien.</h>
+</pair>
+<pair id ='014' contradiction = 'YES' type ='antonym'>
+      <t>Abu Musab Al-Zarqawi a été tué dans une attaque aérienne américaine.</t>
+      <h>Zarqawi a effectivement survécu à l'attaque aérienne.</h>
+</pair>
+<pair id ='015' contradiction = 'YES' type ='negation'>
+      <t>Le mandat de l'Union africaine au Darfour est de surveiller le cessez-le-feu, de ne pas l'appliquer.</t>
+      <h>L'Union africaine devra faire appliquer l'accord de paix.</h>
+</pair>
+<pair id ='016' contradiction = 'YES' type ='WK'>
+      <t>L'Agence de sécurité nationale effectue la surveillance électronique des citoyens américains.</t>
+      <h>Le réseau d'écoute de l'agence [NSA] était destiné aux étrangers.</h>
+</pair>
+<pair id ='017' contradiction = 'YES' type ='negation'>
+      <t>L'Agence de sécurité nationale effectue la surveillance électronique des citoyens américains.</t>
+      <h>Le réseau d'écoute de l'agence [NSA] n'était pas destiné aux citoyens américains.</h>
+</pair>
+<pair id ='018' contradiction = 'YES' type ='numeric'>
+      <t>Buffett donne à la fondation Gates environ 85 p. 100 de sa fortune.</t>
+      <h>La fondation Gates sera responsable de la distribution d'environ 31 milliards de dollars de la succession estimée de 44 milliards de dollars de Buffett.</h>
+</pair>
+<pair id ='019' contradiction = 'YES' type ='negation'>
+      <t>Le Soudan accordera l'autorisation aux forces de maintien de la paix des Nations Unies de prendre leur place au Darfour.</t>
+      <h>Le Soudan est aussi inflexible que jamais il n'accepte jamais les casques bleus de l'ONU.</h>
+</pair>
+<pair id ='020' contradiction = 'YES' type ='factive'>
+      <t>Le Soudan a refusé d'autoriser les troupes de l'ONU au Darfour.</t>
+      <h>Le Soudan accordera l'autorisation aux forces de maintien de la paix des Nations Unies de prendre leur place au Darfour.</h>
+</pair>
+<pair id ='021' contradiction = 'YES' type ='lexical'>
+      <t>Le Soudan a refusé d'autoriser les troupes de l'ONU au Darfour.</t>
+      <h>La question [permettant aux troupes de l'ONU au Darfour] était ouverte à la discussion.</h>
+</pair>
+<pair id ='022' contradiction = 'YES' type ='antonym'>
+      <t>Le Soudan a refusé d'autoriser les troupes de l'ONU au Darfour.</t>
+      <h>Le gouvernement soudanais soutient une force de maintien de la paix de l'ONU pour remplacer la force de l'Union africaine accablée de 7.000.</h>
+</pair>
+<pair id ='023' contradiction = 'YES' type ='factive'>
+      <t>Le Soudan a refusé d'autoriser les troupes de l'ONU au Darfour.</t>
+      <h>Le Soudan était prêt à accepter les troupes de l'ONU.</h>
+</pair>
+<pair id ='024' contradiction = 'YES' type ='factive'>
+      <t>Le Soudan a refusé d'autoriser les troupes de l'ONU au Darfour.</t>
+      <h>Il [le gouvernement soudanais] l'acceptera [les forces de l'ONU].</h>
+</pair>
+<pair id ='025' contradiction = 'YES' type ='factive'>
+      <t>Le gouvernement soudanais a refusé d'autoriser les forces de maintien de la paix des Nations Unies à remplacer la force de l'Union africaine surpassée.</t>
+      <h>Le gouvernement soudanais soutient une force de maintien de la paix de l'ONU pour remplacer la force de l'Union africaine accablée de 7.000.</h>
+</pair>
+<pair id ='026' contradiction = 'YES' type ='negation'>
+      <t>Le Soudan est aussi inflexible que jamais il n'accepte jamais les casques bleus de l'ONU.</t>
+      <h>Il [le gouvernement soudanais] soutient une force de maintien de la paix des Nations Unies pour remplacer la force de l'Union africaine accablée de 7 000.</h>
+</pair>
+<pair id ='027' contradiction = 'YES' type ='negation'>
+      <t>Le Soudan est aussi inflexible que jamais il n'accepte jamais les casques bleus de l'ONU.</t>
+      <h>Il [le gouvernement soudanais] l'acceptera [les forces de l'ONU].</h>
+</pair>
+<pair id ='028' contradiction = 'YES' type ='negation'>
+      <t>Le Soudan était prêt à accepter les troupes de l'ONU.</t>
+      <h>Le Soudan est aussi inflexible que jamais il n'accepte jamais les casques bleus de l'ONU.</h>
+</pair>
+<pair id ='029' contradiction = 'YES' type ='negation'>
+      <t>Le Soudan était prêt à accepter les troupes de l'ONU.</t>
+      <h>Le gouvernement de Khartoum n'avait pas encore accordé cette autorisation [l'équipe d'évaluation de l'ONU au Darfour].</h>
+</pair>
+<pair id ='030' contradiction = 'YES' type ='negation'>
+      <t>Aucun lien direct n'a été établi entre les deux enlèvements [par le Hezbollah et le Hamas des soldats israéliens]</t>
+      <h>Une certaine forme de coordination [entre les deux enlèvements par le Hezbollah et le Hamas des soldats israéliens] ne peut être exclue.</h>
+</pair>
+<pair id ='031' contradiction = 'YES' type ='WK'>
+      <t>Evo Morales est le principal candidat à la présidence en Bolivie.</t>
+      <h>Evo Morales est président bolivien.</h>
+</pair>
+<pair id ='032' contradiction = 'YES' type ='lexical'>
+      <t>Evo Morales est un ancien membre du Congrès.</t>
+      <h>Evo Morales est un membre du Congrès.</h>
+</pair>
+<pair id ='033' contradiction = 'YES' type ='WK'>
+      <t>Evo Morales est le nouveau président bolivien.</t>
+      <h>Evo Morales est un membre du Congrès.</h>
+</pair>
+<pair id ='034' contradiction = 'YES' type ='numeric'>
+      <t>Le Premier ministre Ariel Sharon a subi cinq heures de chirurgie.</t>
+      <h>Sharon a subi neuf heures de chirurgie.</h>
+</pair>
+<pair id ='035' contradiction = 'YES' type ='numeric'>
+      <t>Sharon a subi neuf heures de chirurgie.</t>
+      <h>Le Premier ministre israélien Ariel Sharon a subi sept heures de chirurgie d'urgence.</h>
+</pair>
+<pair id ='036' contradiction = 'YES' type ='numeric'>
+      <t>FEMA réduirait le financement pour la plupart des salles d'ici le 1er décembre.</t>
+      <h>FEMA a fixé les délais du 15 décembre et du 7 janvier pour la réduction du financement pour la plupart des chambres.</h>
+</pair>
+<pair id ='037' contradiction = 'YES' type ='lexical'>
+      <t>Le Hezbollah a tiré une roquette qui a tué huit travailleurs.</t>
+      <h>Le Hezbollah a tué huit soldats israéliens.</h>
+</pair>
+<pair id ='038' contradiction = 'YES' type ='factive'>
+      <t>TamilNet a signalé qu'un deuxième navire de marine avait été coulé.</t>
+      <h>L'armée sri-lankaise nie qu'un deuxième navire de la marine ait été coulé.</h>
+</pair>
+<pair id ='039' contradiction = 'YES' type ='numeric'>
+      <t>La huitième a été détonée.</t>
+      <h>Le premier des sept explosions a frappé.</h>
+</pair>
+<pair id ='040' contradiction = 'YES' type ='numeric'>
+      <t>La huitième a été détonée.</t>
+      <h>Les sept bombes à train ont explosé.</h>
+</pair>
+<pair id ='041' contradiction = 'YES' type ='numeric'>
+      <t>Les bombardements de train ont tué plus de 180 personnes.</t>
+      <h>Les bombardements ont tué 63 personnes.</h>
+</pair>
+<pair id ='042' contradiction = 'YES' type ='numeric'>
+      <t>Le nombre de morts était de 48 ans.</t>
+      <h>Le nombre de morts était d'au moins 55 ans.</h>
+</pair>
+<pair id ='043' contradiction = 'YES' type ='numeric'>
+      <t>Sept explosions soigneusement coordonnées ont déchiré les trains de banlieue.</t>
+      <h>La huitième a été détonée.</h>
+</pair>
+<pair id ='044' contradiction = 'YES' type ='antonym'>
+      <t>Un rapport de Mohammed ElBaradei a déclaré que la destruction du site [Lavisan] a soulevé «la possibilité d'un effort de dissimulation» par l'Iran pour cacher les activités d'enrichissement d'uranium.</t>
+      <h>Dans son rapport Mohamed ElBaradei, directeur général de l'Agence internationale de l'énergie atomique, a salué la coopération «transparente et indispensable» de l'Iran.</h>
+</pair>
+<pair id ='045' contradiction = 'YES' type ='lexical'>
+      <t>Il est préoccupant que l'Iran opte par son moratoire en l'absence de réponses aux questions, des questions sérieuses, de l'AIEA [Agence internationale de l'énergie atomique].</t>
+      <h>Dans son rapport Mohamed ElBaradei, directeur général de l'Agence internationale de l'énergie atomique, a salué la coopération «transparente et indispensable» de l'Iran.</h>
+</pair>
+<pair id ='046' contradiction = 'YES' type ='lexical'>
+      <t>Il est préoccupant que l'Iran opte par son moratoire en l'absence de réponses aux questions, des questions sérieuses, de l'AIEA [Agence internationale de l'énergie atomique].</t>
+      <h>"Nous sommes ravis, nous [l'Agence internationale de l'énergie atomique] avons eu accès, ce n'était pas restreint. Nous avons été autorisés à voir tous les bâtiments et à prendre des échantillons environnementaux".</h>
+</pair>
+<pair id ='047' contradiction = 'YES' type ='antonym'>
+      <t>Reade Seligmann a été arrêté.</t>
+      <h>Seligmann a été libéré.</h>
+</pair>
+<pair id ='048' contradiction = 'YES' type ='structure'>
+      <t>La charge de violation de la confiance reflète ce qu'ils ont dit que les efforts de Chung Mong-koo ont tenté de s'enrichir.</t>
+      <h>La charge de violation de confiance reflète ce qu'ils ont dit étaient des efforts de Chung pour enrichir son fils.</h>
+</pair>
+<pair id ='049' contradiction = 'YES' type ='negation'>
+      <t>Personne n'a été arrêté dans l'affaire.</t>
+      <h>Collin Finnerty a été arrêtée pour être enlevée.</h>
+</pair>
+<pair id ='050' contradiction = 'YES' type ='negation'>
+      <t>Personne n'a été arrêté dans l'affaire.</t>
+      <h>Collin Finnerty a été arrêtée pour infraction de viol.</h>
+</pair>
+<pair id ='051' contradiction = 'YES' type ='negation'>
+      <t>Personne n'a été arrêté dans l'affaire.</t>
+      <h>Reade Seligmann, 20 a également été arrêtée.</h>
+</pair>
+<pair id ='052' contradiction = 'YES' type ='negation'>
+      <t>Les ministres doivent être membres du Parlement.</t>
+      <h>Le premier ministre n'est plus tenu d'être membre du parlement.</h>
+</pair>
+<pair id ='053' contradiction = 'YES' type ='lexical'>
+      <t>Karnak est le frère de Triton, qui a subi Terrigenesis avant qu'il ne l'ait fait.</t>
+      <h>Karnak est habituellement accompagné par ses cousins ​​Gorgon et Triton.</h>
+</pair>
+<pair id ='054' contradiction = 'YES' type ='lexical'>
+      <t>Dans un mémo daté du 25 juillet 1950, le colonel Turner C. Rogers de l'armée de l'air a déclaré: «L'armée a demandé que nous attaquions tous les partis civils réfugiés qui se rapprochent de nos positions. À ce jour, nous avons respecté la demande de l'Armée de terre le respect."</t>
+      <h>Le président Bill Clinton a exprimé le regret de la mort des civils coréens par les États-Unis, les États-Unis et la Corée du Sud ont publié une «déclaration de compréhension mutuelle» commune qui indiquait qu'il n'y avait pas d'ordonnance de licenciement contre des civils.</h>
+</pair>
+<pair id ='055' contradiction = 'YES' type ='numeric'>
+      <t>La surface de l'île Qeshm est principalement rocheuse et stérile avec une petite population humaine d'environ 8 000.</t>
+      <h>La population de l'île de Qeshm compte environ 200 000 habitants.</h>
+</pair>
+<pair id ='056' contradiction = 'YES' type ='numeric'>
+      <t>Le drapeau a d'abord été utilisé en 1893 par Conradh na Gaeilge.</t>
+      <h>En 1858, la Fraternité républicaine d'Irlande adopta le drapeau comme symbole.</h>
+</pair>
+<pair id ='057' contradiction = 'YES' type ='numeric'>
+      <t>Le Koweït Times a rapporté que le Hezbollah a enterré plus de 700 combattants avec plus à suivre, le 30 août.</t>
+      <h>L'Australien rapporte qu'Israël a le nom de plus de 430 combattants du Hezbollah, il a tué et estime que le Hezbollah est mort à plus de 800, le 29 août.</h>
+</pair>
+<pair id ='058' contradiction = 'YES' type ='numeric'>
+      <t>Il a été en bref demande comme un conférencier de motivation après son vol et a quitté son emploi de chauffeur de camion, mais n'a jamais pu gagner beaucoup d'argent de sa renommée; Plus tard dans sa vie, Walters a parcouru les montagnes de San Gabriel et a fait du bénévolat pour le Service forestier des États-Unis avant de se suicider en se suicidant dans la forêt nationale d'Angeles le 6 octobre 1988.</t>
+      <h>Il a été en bref demande comme un conférencier de motivation après son vol et a quitté son emploi de chauffeur de camion, mais n'a jamais pu gagner beaucoup d'argent de sa renommée; Plus tard dans sa vie, Walters a parcouru les montagnes de San Gabriel et a fait du bénévolat pour le Service forestier des États-Unis avant de se suicider en se suicidant dans le cœur de la Forêt nationale d'Angeles le 6 octobre 1993.</h>
+</pair>
+<pair id ='059' contradiction = 'YES' type ='numeric'>
+      <t>Après avoir passé environ douze heures dans le ciel, il est parvenu à la conclusion qu'il devra tirer quelques ballons après tout; Ce qui l'a amené à descendre lentement à nouveau, jusqu'à ce que les câbles pendants de ballon soient pris dans une ligne électrique, provoquant un black out dans un quartier de Long Beach pendant 20 minutes, mais aussi permettre à Walters de descendre à nouveau au sol.</t>
+      <h>Après avoir passé environ 45 minutes dans le ciel, il est parvenu à la conclusion qu'il devra tirer quelques ballons après tout; Ce qui l'a amené à descendre lentement à nouveau, jusqu'à ce que les câbles pendants de ballon soient pris dans une ligne électrique, provoquant un black out dans un quartier de Long Beach pendant 20 minutes, mais aussi permettre à Walters de descendre à nouveau au sol.</h>
+</pair>
+<pair id ='060' contradiction = 'YES' type ='numeric'>
+      <t>Il a été amené à l'ancienne Calédonie, sur l'île connue sous le nom de Alba, par Scotti, de ce qu'est actuellement Ulster vers 500 av.</t>
+      <h>Il a été amené à l'ancienne Calédonie, sur l'île connue sous le nom d'Alba, par Scotti, de ce qu'est actuellement Ulster vers le 4ème siècle.</h>
+</pair>
+<pair id ='061' contradiction = 'YES' type ='numeric'>
+      <t>Wilhelm Maximilian Wundt (17 août 1832 - 31 août 1920) était un physiologiste et psychologue allemand.</t>
+      <h>Wundt est né le 16 août 1832 à Neckarau, à Baden.</h>
+</pair>
+<pair id ='062' contradiction = 'YES' type ='negation'>
+      <t>"Nous avons trouvé les armes de destruction massive. Nous avons trouvé des laboratoires biologiques", a déclaré M. Bush à la télévision polonaise. "Pour ceux qui disent que nous n'avons pas trouvé les dispositifs de fabrication interdits ou les armes interdites, ils ont tort, nous les avons trouvés".</t>
+      <h>Le 9 septembre 2004, en Pennsylvanie, M. Bush a déclaré: «Je reconnais que nous n'avons pas trouvé les stocks [d'armes] que nous avons tous pensé être là.</h>
+</pair>
+<pair id ='063' contradiction = 'YES' type ='lexical'>
+      <t>Au cours de la campagne de 2000, George W. Bush a défendu la construction de la nation et les enchevêtrements militaires étrangers. Dans le deuxième débat présidentiel, il a déclaré: «Je ne suis pas tellement sûr que le rôle des États-Unis est de faire le tour du monde et de dire:« C'est comme ça que ça doit être ».</t>
+      <h>Les États-Unis sont actuellement impliqués dans la construction de la nation en Irak à une échelle inconnue depuis les années qui ont suivi immédiatement la Seconde Guerre mondiale.</h>
+</pair>
+<pair id ='064' contradiction = 'YES' type ='lexical'>
+      <t>Au cours des élections de 2000, M. Bush a appelé à retirer les troupes américaines de la mission de maintien de la paix de l'OTAN dans les Balkans.</t>
+      <h>Son administration cite de telles missions comme un exemple de la façon dont l'Amérique doit «suivre le cours».</h>
+</pair>
+<pair id ='065' contradiction = 'YES' type ='lexical'>
+      <t>Lors de l'élection présidentielle de 2000, M. Bush a défendu le libre-échange.</t>
+      <h>Les préoccupations de la campagne qui lui ont permis de gagner West Virginia, il a imposé des droits de douane de 30 pour cent sur les produits étrangers en acier en provenance d'Europe et d'autres pays en mars 2002.</h>
+</pair>
+<pair id ='066' contradiction = 'YES' type ='lexical'>
+      <t>Au cours de la campagne de 2000, M. Bush a déclaré qu'il était contre l'intervention fédérale concernant la question du mariage homosexuel. Dans un entretien avec le Larry King de CNN, il a déclaré: "peuvent faire ce qu'ils veulent faire" sur cette question. Le vice-président Cheney a pris la même position.</t>
+      <h>Quatre ans plus tard, en février dernier, M. Bush a annoncé son soutien à un amendement à la Constitution qui définit le mariage comme étant exclusivement entre hommes et femmes. L'amendement interdisait aux États de faire "ce qu'ils veulent faire" sur le mariage homosexuel.</h>
+</pair>
+<pair id ='067' contradiction = 'YES' type ='negation'>
+      <t>"Je ne pense pas que vous pouvez le gagner", a déclaré M. Bush sur la guerre contre le terrorisme en août.</t>
+      <h>M. Bush a déclaré: "Nous nous rencontrons aujourd'hui en temps de guerre pour notre pays, une guerre où nous n'avons pas encore commencé un que nous gagnerons". Il a ajouté plus tard, "nous gagnons, et nous gagnerons".</h>
+</pair>
+<pair id ='068' contradiction = 'YES' type ='lexical'>
+      <t>M. Bush a critiqué Al Gore dans la campagne de 2000 pour faire partie de «l'administration qui a été responsable» tandis que «le prix de l'essence a progressivement augmenté». En décembre 1999, lors du premier débat primaire républicain, M. Bush a déclaré que le président Clinton «devrait obliger les membres de l'OPEP à réduire leurs prix».</t>
+      <h>Comme le gaz a dépassé le niveau record de 50 $ le baril cette semaine, M. Bush n'a montré aucune propension à faire pression personnellement, ni à la «mâchoire», les producteurs d'huile de Mideast pour augmenter leur production. Un porte-parole du président aurait déclaré en mars que M. Bush n'entretracerait pas personnellement les chefs de cartel du pétrole pour changer d'avis.</h>
+</pair>
+<pair id ='069' contradiction = 'YES' type ='lexical'>
+      <t>En mai 2003, lors du premier débat primaire démocratique, John Kerry a déclaré que son vote autorisant le président à utiliser la force était la «bonne décision», mais qu'il aurait «préféré si nous avions donné à la diplomatie une plus grande opportunité».</t>
+      <h>Mais alors, en janvier 2004, Kerry a commencé à être candidat anti-guerre en disant: «Je ne crois pas que le président nous ait pris la guerre comme il le devrait.</h>
+</pair>
+<pair id ='070' contradiction = 'YES' type ='lexical'>
+      <t>"Je sais combien les Palestiniens découragés sont en train de décider de construire la barrière de la Ligne verte", a-t-il déclaré à la Conférence nationale sur le leadership de l'Institut Arabe Américain. "Nous n'avons pas besoin d'un autre obstacle à la paix. Les mesures provocatrices et contreproductives ne nuisent qu'aux Israéliens".</t>
+      <h>Mais moins d'un an plus tard, en février 2004, il s'est inversé en appelant la clôture «un acte légitime d'autodéfense» et disant: «Le président Bush discute à juste titre avec Israël la voie exacte de la clôture afin de minimiser les difficultés qu'elle cause Palestiniens innocents ".</h>
+</pair>
+<pair id ='071' contradiction = 'YES' type ='lexical'>
+      <t>Musharraf du Pakistan appelle les «bouchers» des forces anti-taliban de l'Alliance du Nord et les met en garde contre le fait de profiter des bombardements dirigés par les États-Unis en Afghanistan.</t>
+      <h>À Washington, Rumsfeld loue les forces de l'Alliance du Nord creusées contre les talibans.</h>
+</pair>
+<pair id ='072' contradiction = 'YES' type ='numeric'>
+      <t>Les actions d'Israël ont déclenché des manifestations internationales. La tragédie de l'explosion de dimanche à Qana qui a tué plus de 50 civils libanais a présenté à Israël un dilemme.</t>
+      <h>Une enquête préliminaire de Human Rights Watch sur la grève aérienne israélienne du 30 juillet à Qana a révélé que 28 personnes ont été confirmées mortes jusqu'à présent, dont 16 enfants, a déclaré Human Rights Watch aujourd'hui.</h>
+</pair>
+<pair id ='073' contradiction = 'YES' type ='numeric'>
+      <t>Les Israéliens disent qu'ils "ont frappé des douzaines d'hommes armés du Hezbollah" mais n'ont pas pu donner plus de détails.</t>
+      <h>Le Hezbollah a déclaré que quatre de ses combattants sont morts, dans des combats à Kfar Kila, Adiasse et Taibe.</h>
+</pair>
+<pair id ='074' contradiction = 'YES' type ='numeric'>
+      <t>Les Israéliens disent qu'ils "ont frappé des douzaines d'hommes armés du Hezbollah" mais n'ont pas pu donner plus de détails.</t>
+      <h>Une porte-parole de l'armée israélienne a déclaré que les troupes avaient tué 20 militants du Hezbollah - une revendication que le groupe a niée.</h>
+</pair>
+<pair id ='075' contradiction = 'YES' type ='structure'>
+      <t>A Damas, le président Bashar al-Assad a déclaré qu'Israël avait été vaincu et que le Hezbollah avait «hissé la bannière de la victoire».</t>
+      <h>Bush au département d'Etat: le Hezbollah a attaqué Israël. Le Hezbollah a commencé la crise. Et le Hezbollah a subi une défaite dans cette crise.</h>
+</pair>
+<pair id ='076' contradiction = 'YES' type ='numeric'>
+      <t>Après avoir passé environ deux heures dans le ciel, il est parvenu à la conclusion qu'il devra tirer quelques ballons après tout; Ce qui l'a amené à descendre lentement à nouveau, jusqu'à ce que les câbles pendants de ballon soient pris dans une ligne électrique, provoquant un black out dans un quartier de Long Beach pendant 20 minutes, mais aussi permettre à Walters de descendre à nouveau au sol.</t>
+      <h>Après avoir passé environ douze heures dans le ciel, il est parvenu à la conclusion qu'il devra tirer quelques ballons après tout; Ce qui l'a amené à descendre lentement à nouveau, jusqu'à ce que les câbles pendants de ballon soient pris dans une ligne électrique, provoquant un black out dans un quartier de Long Beach pendant 20 minutes, mais aussi permettre à Walters de descendre à nouveau au sol.</h>
+</pair>
+<pair id ='077' contradiction = 'YES' type ='antonym'>
+      <t>Bush au département d'Etat: le Hezbollah a attaqué Israël. Le Hezbollah a commencé la crise. Et le Hezbollah a subi une défaite dans cette crise.</t>
+      <h>Hier soir, Hassan Nasrallah, leader du Hezbollah, a déclaré que son homme avait une «victoire stratégique et historique» sur «un ennemi confus, lâche et vaincu».</h>
+</pair>
+<pair id ='078' contradiction = 'YES' type ='antonym'>
+      <t>Hier soir, Hassan Nasrallah, leader du Hezbollah, a déclaré que son homme avait une «victoire stratégique et historique» sur «un ennemi confus, lâche et vaincu».</t>
+      <h>Bush insiste sur le fait que le Hezbollah est perdu, l'ONU fait appel urgent à l'Europe pour les Casques bleus. Le président américain George Bush a reconnu vendredi qu'il pourrait prendre du temps pour le peuple du Liban et le monde à voir la guerre entre Israël et le Hezbollah comme une perte pour le groupe.</h>
+</pair>
+<pair id ='079' contradiction = 'YES' type ='antonym'>
+      <t>Le secrétaire général de l'ONU, Kofi Annan, s'est déclaré profondément préoccupé par le raid commando israélien de samedi au fond du Liban, l'appelant une violation de la trêve.</t>
+      <h>Israël a déclaré qu'il essayait de perturber les approvisionnements en armes d'Iran et de Syrie au Hezbollah et a insisté sur la trêve.</h>
+</pair>
+<pair id ='080' contradiction = 'YES' type ='lexical'>
+      <t>Le secrétaire général de l'ONU, Kofi Annan, s'est déclaré profondément préoccupé par le raid commando israélien de samedi au fond du Liban, l'appelant une violation de la trêve.</t>
+      <h>Israël a insisté pour ne pas avoir violé le cessez-le-feu.</h>
+</pair>
+<pair id ='081' contradiction = 'YES' type ='negation'>
+      <t>Le secrétaire général de l'ONU, Kofi Annan, s'est déclaré profondément préoccupé par le raid commando israélien de samedi au fond du Liban, l'appelant une violation de la trêve.</t>
+      <h>"Nous avons eu des informations spécifiques sur les transferts d'armes et nous avons agi pour empêcher cette violation, de sorte que la violation n'est pas du côté israélien - nous avons répondu à une violation de la résolution par le Hezbollah", a déclaré le porte-parole israélien Mark Regev.</h>
+</pair>
+<pair id ='082' contradiction = 'YES' type ='WK'>
+      <t>Al-Sharq al-Awsat rapporte que le raid israélien dans le Biqa 'visait à kidnapper un chef proéminent du Hezbollah, ou éventuellement à récupérer des soldats israéliens capturés.</t>
+      <h>L'armée israélienne a déclaré que le raid visait à empêcher le trafic d'armes d'Iran et de Syrie vers le Hezbollah. Il a également déclaré qu'un soldat a été tué et deux autres ont été blessés lors de l'opération.</h>
+</pair>
+<pair id ='083' contradiction = 'YES' type ='lexical'>
+      <t>Le rapport, par exemple, citons le directeur de l'Intelligence nationale John Negroponte disant que l'Iran pourrait avoir une bombe "quelque temps entre le début de la prochaine décennie et le milieu de la prochaine décennie".</t>
+      <h>Pourtant, une transcription complète de l'interview de BBC du 2 juin à partir de laquelle la citation est dessinée montre que Negroponte préface cela avec "Nous n'avons pas de connaissances claires", et ajoute que le délai est juste une estimation de l'Iran "pourrait Être en mesure d'avoir une arme nucléaire ".</h>
+</pair>
+<pair id ='084' contradiction = 'YES' type ='lexical'>
+      <t>Considérant qu'Osama bin Laden lui-même est encore censé se cacher quelque part le long de la frontière entre l'Afghanistan et le Pakistan et le président afghan, Hamid Karzai, est désespérément tributaire du soutien des seigneurs de la drogue et des seigneurs de la guerre pour empêcher une nouvelle guerre civile, de telles allégations sont une fraude flagrante. Le principal commandant militaire britannique en Afghanistan a décrit récemment la situation dans le pays comme «proche de l'anarchie» et a déclaré que les forces de l'OTAN «manquaient de temps» pour sauver la situation. «L'industrie des stupéfiants représente plus d'un tiers du produit intérieur brut de l'Afghanistan et constitue une menace pour la stabilité et la démocratie émergentes de ce pays», admettent avec précaution une récente fiche d'information du Département d'État des États-Unis.</t>
+      <h>Pourtant, mardi dernier, la Maison-Blanche a de nouveau fait ses preuves: «Nous avons privé Al-Qaïda de refuge en Afghanistan et aidé un gouvernement démocratique à se positionner à sa place».</h>
+</pair>
+<pair id ='085' contradiction = 'YES' type ='lexical'>
+      <t>Des sources de renseignement au Pakistan disent à NBC News que Matiur Rehman a remplacé Amjad Farooqi en tant que responsable de Lashkar e Jhangvi, le groupe extrémiste sunnite fondé par Farooqi.</t>
+      <h>Des sources de renseignement aux États-Unis et au Pakistan disent à NBC News que Maitur Rehman est un militant de bas niveau opérant dans le Waziristan du Sud. Il est recherché par les Pakistanais dans de nombreux cas de violence sectaire, mais contrairement aux récents rapports médiatiques, il n'est pas le cerveau de l'intrigue récente et frustrée de Londres pour faire sauter des avions vers les États-Unis.</h>
+</pair>
+<pair id ='086' contradiction = 'YES' type ='antonym'>
+      <t>Des sources de renseignement aux États-Unis et au Pakistan disent à NBC News que Maitur Rehman est un militant de bas niveau opérant dans le Waziristan du Sud.</t>
+      <h>Jundullah est une nouvelle organisation terroriste jihadiste, qui a commencé à fonctionner dans la région de Karachi il y a trois ans. Maitur Rehman, un Pakistanais de 29 ans, de Multan dans le Punjab, est l'Amir actuel de Jundullah.</h>
+</pair>
+<pair id ='087' contradiction = 'YES' type ='WK_temporal'>
+      <t>La plus récente estimation nationale du renseignement a révélé que les progrès de l'Iran en matière de capacité d'armement étaient en réalité plus lents qu'on ne le pensait auparavant, et le Directeur des Intelligence Nationale, John D. Negroponte, affirme que, selon lui, l'Iran est encore à quatre ou neuf ans à côté de la bombe.</t>
+      <h>Le rapport, par exemple, citons le directeur de l'Intelligence nationale John Negroponte disant que l'Iran pourrait avoir une bombe "quelque temps entre le début de la prochaine décennie et le milieu de la prochaine décennie".</h>
+</pair>
+<pair id ='088' contradiction = 'YES' type ='factive'>
+      <t>Les États-Unis et l'Europe disent que l'Iran poursuit un programme d'armes nucléaires clandestines - une accusation que l'Iran a fortement niée.</t>
+      <h>"La CIA n'a trouvé aucune preuve concluante, à ce jour, d'un programme secret d'armes nucléaires iraniennes parallèlement aux opérations civiles que l'Iran a déclarées à l'Agence internationale de l'énergie atomique", a déclaré M. Hersh.</h>
+</pair>
+<pair id ='089' contradiction = 'YES' type ='factive'>
+      <t>Le secrétaire américain à la Défense, Donald Rumsfeld, a rejeté les suggestions selon lesquelles l'Irak est englouti dans une guerre civile et a accusé les médias d'exagérer la sévérité de la situation actuelle.</t>
+      <h>L'un des personnages les plus pro-occidentaux d'Irak et un ancien Premier ministre sont devenus le premier de ses dirigeants à exprimer ce que la plupart de leurs compatriotes ont peur: le pays est en proie à une guerre civile "terrible".</h>
+</pair>
+<pair id ='090' contradiction = 'YES' type ='factive'>
+      <t>Un haut fonctionnaire du renseignement américain a déclaré lundi que le groupe de défense de l'Iran, Hizbollah, avait formé des membres de l'armée Mahdi, la milice chiite en Irak dirigée par Muqtada al-Sadr.</t>
+      <h>Le groupe militant libanais Hezbollah a nié les allégations d'agents de renseignement américains selon lesquelles il a dispensé une formation aux membres des milices irakiennes.</h>
+</pair>
+<pair id ='091' contradiction = 'YES' type ='numeric'>
+      <t>L'armée américaine a déclaré que les soldats effectuaient une recherche d'un groupe de bâtiments dans la région de Thar Thar lorsqu'ils ont été renvoyés. Deux insurgés ont été tués par des coups de feu et 18 autres, dont deux femmes, ont été tués lorsque les troupes au sol ont appelé une attaque aérienne.</t>
+      <h>Les responsables locaux ont déclaré que les personnes tuées étaient des civils - dont huit enfants.</h>
+</pair>
+<pair id ='092' contradiction = 'YES' type ='antonym'>
+      <t>L'armée américaine a déclaré avoir tué 20 militants soupçonnés d'al-Qaïda dans une attaque terrestre et aérienne en Irak centrale.</t>
+      <h>Les responsables locaux disent que plus de deux douzaines de civils - y compris des femmes et des enfants - ont été tués lors de la grève.</h>
+</pair>
+<pair id ='093' contradiction = 'YES' type ='numeric'>
+      <t>Les responsables locaux et la police irakienne ont déclaré vendredi qu'ils avaient cru que 32 civils avaient été tués dans l'attaque.</t>
+      <h>L'armée américaine a publié un communiqué vendredi en disant que deux femmes étaient parmi les 20 terroristes soupçonnés d'Al-Qaeda qui ont été tués dans l'opération.</h>
+</pair>
+<pair id ='094' contradiction = 'YES' type ='numeric'>
+      <t>L'armée américaine a d'abord déclaré que quatre personnes étaient mortes lors d'un raid pour trouver un partisan d'al-Qaïda dans lequel un bâtiment s'est effondré.</t>
+      <h>Cependant, la police irakienne a déclaré que 11 civils, dont cinq enfants et quatre femmes, ont été tués et tués par des troupes américaines qui ont fait exploser le bâtiment.</h>
+</pair>
+<pair id ='095' contradiction = 'YES' type ='numeric'>
+      <t>L'armée américaine a d'abord déclaré que quatre personnes étaient mortes lors d'un raid pour trouver un partisan d'al-Qaïda dans lequel un bâtiment s'est effondré.</t>
+      <h>De nouvelles allégations d'un massacre impliquant des troupes américaines en Irak ont ​​émergé après que la BBC a diffusé des séquences d'un incident dans lequel 11 civils irakiens ont été tués.</h>
+</pair>
+<pair id ='096' contradiction = 'YES' type ='numeric'>
+      <t>Des tirs d'armes ont éclaté dans un dortoir et une salle de classe à Virginia Tech lundi, tuant au moins 32 personnes et en blessant au moins 20 autres, selon les autorités.</t>
+      <h>Un pistolet a abattu jusqu'à 31 personnes et a blessé au moins 21 autres blessés dans Virginia Tech à Blacksburg, Virginie, lundi matin, dans ce que l'on appelle le tournage le plus meurtrier du campus dans l'histoire américaine.</h>
+</pair>
+<pair id ='097' contradiction = 'YES' type ='lexical'>
+      <t>Les Chinois ont peut-être calculé que l'Otan n'oserait pas frapper son ambassade, mais le bâtiment de cinq étages a été vidé tous les soirs de personnel.</t>
+      <h>Malgré le fait que le bâtiment de l'ambassade ait été évacué de tout le personnel non essentiel pendant les heures d'obscurité pour éviter toute pertes potentielles, trois Chinois ont été tués et plus de 20 blessés.</h>
+</pair>
+<pair id ='098' contradiction = 'YES' type ='negation'>
+      <t>Le parti réformiste américain n'est pas un parti politique, il n'a pas d'accès au scrutin dans aucun État et ne dirige pas les candidats.</t>
+      <h>Le Parti réformiste américain est un parti politique mineur aux États-Unis qui a été formé dans une division factionnelle du plus grand Parti réformiste des États-Unis en octobre 1997.</h>
+</pair>
+<pair id ='099' contradiction = 'YES' type ='factive'>
+      <t>John Chipman, responsable de The International Insitute for Strategic Studies à Londres, a soutenu le 31/01/2007 que "l'Iran ne pouvait être qu'à deux ou trois ans de pouvoir produire une arme nucléaire ... L'Iran avait stocké 250 tonnes D'hexafluorure d'uranium (UF6), qui, lorsqu'il est enrichi, suffirait pour 30 à 50 armes ".</t>
+      <h>Il est peu probable que l'Iran ait une arme nucléaire d'ici 2010 ou plus tôt, ce qui ne compromet pas la menace.</h>
+</pair>
+<pair id ='100' contradiction = 'YES' type ='numeric'>
+      <t>Yueng a d'abord témoigné qu'elle a découvert qu'elle était enceinte en octobre 1999.</t>
+      <h>Yueng a déclaré que les responsables de la planification familiale ont expliqué que sa grossesse était venue la chercher en février 1999.</h>
+</pair>
+<pair id ='101' contradiction = 'YES' type ='WK'>
+      <t>Lors d'une audience, Neuens et Kevin Scanlan, directeur des ressources humaines de l'hôpital, ont d'abord témoigné que Hughes manquait de connaissances ou d'expérience suffisantes pour le poste d'agent de contrôle de la qualité.</t>
+      <h>Neuens et Kevin Scanlan ont également admis que Hughes avait travaillé avec les produits chimiques en question depuis 1980 et qu'il avait été le principal responsable de la formation des employés dans l'utilisation sécuritaire de ces produits chimiques.</h>
+</pair>
+<pair id ='102' contradiction = 'YES' type ='numeric'>
+      <t>La demande de la requérante a allégué un accident en septembre 1990. Il a d'abord témoigné d'un accident spécifique dans lequel il a frappé un canon qui l'a amené à «bas» dans son siège. L'histoire fournie à son médecin traitant a allégué un incident spécifique en février ou mars 1991.</t>
+      <h>En 1992, le demandeur a témoigné que sa douleur commençait à pire quatre à cinq mois après le traitement en septembre 1990. Les dossiers de son médecin traitant indiquaient une douleur sans traumatisme connu.</h>
+</pair>
+<pair id ='103' contradiction = 'YES' type ='WK'>
+      <t>Une situation commune est un témoin qui témoigne que la lumière était verte au procès.</t>
+      <h>Au cours d'un dépôt antérieur, le témoin a insisté sur le fait que la lumière était rouge.</h>
+</pair>
+<pair id ='104' contradiction = 'YES' type ='antonym'>
+      <t>Depuis que Dolan a été payé pendant neuf semaines consécutives, l'arbitre du Tribunal d'appel a conclu que le paiement à Dolan pour sa semaine d'attente était approprié.</t>
+      <h>La division a fait valoir en appel que, puisque l'arbitre a constaté que Dolan avait été payé en trop pour ces deux semaines, ce qui aurait été huit semaines et neuf de ses neuf semaines consécutives de prestations, Dolan a été techniquement uniquement payé pendant sept semaines consécutives de prestations, ce qui a permis de payer La semaine d'attente est inappropriée.</h>
+</pair>
+<pair id ='105' contradiction = 'YES' type ='lexical'>
+      <t>À un moment donné, Zain avait dit que le sang était le défendeur.</t>
+      <h>À un autre point, Zain avait identifié le sang comme victime.</h>
+</pair>
+<pair id ='106' contradiction = 'YES' type ='lexical'>
+      <t>Dans un dépôt du 10 juin, Youssef a affirmé qu'il n'y avait aucun document documentant les dommages causés à la cathédrale depuis le dernier rapport de septembre 1995, a déclaré O'Brien.</t>
+      <h>Mais sur une cassette vidéo du 7 juin soumise au tribunal, le juge a déclaré que Youssef a identifié de nouvelles fissures qui se sont développées après le séisme du 23 mai.</h>
+</pair>
+<pair id ='107' contradiction = 'YES' type ='structure'>
+      <t>Gregg Miner, directeur général de l'entreprise, a déclaré à l'origine que c'était l'équipe de gestion qui a choisi le superviseur pour le RIF.</t>
+      <h>Gregg Miner a reconnu qu'il avait probablement été celui de sélectionner Whittington pour le RIF.</h>
+</pair>
+<pair id ='108' contradiction = 'YES' type ='WK_temporal'>
+      <t>Le Dr Long-Gue Hu, le principal résident obstétrical / gynécologique de JCMC, a examiné le sonogramme du 13 août mais n'a pas détecté la spina bifida. Hu a témoigné que le sonogramme du 13 août a probablement été pris à FHC, et il l'a très probablement examiné à cette date.</t>
+      <h>Le Dr Long-Gue Hu a déterminé que le sonogramme du 13 août a été pris à JCMC, et il n'a probablement pas révisé jusqu'à la fin du mois d'août.</h>
+</pair>
+<pair id ='109' contradiction = 'YES' type ='negation'>
+      <t>Le défendeur a soutenu que Likens n'était pas qualifié pour donner un avis d'expert sous Ind.Evid.Rule 702 ou un avis de la part de l'Ind.Evid.Rule 701.</t>
+      <h>Le tribunal n'est pas d'accord et a constaté que si Likens n'était pas suffisamment qualifié en tant qu'expert en vertu de la règle 702, il était qualifié comme témoin compétent en vertu de la règle 701.</h>
+</pair>
+<pair id ='110' contradiction = 'YES' type ='WK'>
+      <t>Les billets officiels pour la tournée de Cure n'ont pas encore été diffusés.</t>
+      <h>La direction de Cure affirme que les sites vendent près de la capacité.</h>
+</pair>
+<pair id ='111' contradiction = 'YES' type ='WK'>
+      <t>Son avocat, Richard Herman, avait déjà insisté sur le fait que Knight était une «jeune femme normale» sans problèmes mentaux et a déclaré qu'elle avait écrit une lettre d'excuses à Zeta-Jones et Douglas.</t>
+      <h>Mais après que les deux stars d'Hollywood aient témoigné pendant une audience préliminaire en juillet, M. Herman a déclaré aux journalistes que «ce qui s'est réellement passé, c'est que Catherine Zeta-Jones a conduit Dawnette à tenter le suicide et que le vrai sang est sur ses mains».</h>
+</pair>
+<pair id ='112' contradiction = 'YES' type ='WK'>
+      <t>L'audience a également été interrompue jeudi, lorsque l'avocat de la défense a déclaré que son client était toujours groggy après avoir pris des somnifères parce qu'elle voulait une bonne nuit de sommeil.</t>
+      <h>Mais vendredi, il a déclaré qu'il s'agissait d'une tentative de suicide par une surdose de barbituriques.</h>
+</pair>
+<pair id ='113' contradiction = 'YES' type ='negation'>
+      <t>La transition vers le jeune Mr Lee "n'offrira pas beaucoup de réconfort à ceux qui cherchent plus d'ouverture", a-t-il déclaré, "ses discours ressemblent beaucoup à celui de son père".</t>
+      <h>Mais Steve Chia, l'un des quelques politiciens non-PAP de Singapour et un critique de gouvernement vocal, a déclaré qu'il s'attendait à ce que le leadership de M. Lee soit «plus ouvert et consultatif», en particulier sur les questions sociales.</h>
+</pair>
+<pair id ='114' contradiction = 'YES' type ='WK_location'>
+      <t>Quand ses amis ont coupé le cordon qui avait attaché son fauteuil à sa jeep, la chaise de jardin de Walters a rapidement atteint une hauteur d'environ 16 000 pieds (4 876 m); Craignant de se pencher sur des problèmes encore plus profonds, il n'a pas osé tirer des ballons, plutôt que de dériver de Los Angeles et traverser le corridor d'approche primaire de l'aéroport international de Los Angeles.</t>
+      <h>Quand ses amis ont coupé le cordon qui avait attaché son fauteuil à sa jeep, la chaise de jardin de Walters a rapidement atteint une hauteur d'environ 16 000 pieds (4 876 m); Craignant de se pénétrer dans des problèmes encore plus profonds, il n'a pas osé tirer des ballons, au lieu de dériver de Long Beach et traverser le couloir d'approche primaire de l'aéroport de Long Beach.</h>
+</pair>
+<pair id ='115' contradiction = 'YES' type ='WK'>
+      <t>Il a acheté 45 ballons météorologiques de 4 pieds de diamètre dans un magasin excédentaire de la marine militaire, les attachant à sa chaise à gazon, puis on les a remplis d'hélium après avoir mis un parachute et s'est attaché à la chaise avec un pellet, une radio CB , Des sandwiches, des boissons gazeuses et une caméra; Cependant, les choses ne fonctionnaient pas comme il l'avait prévu.</t>
+      <h>Lui et sa petite amie ont acheté 45 ballons météorologiques de quatre pieds et des chars à l'hélium dans un magasin appelé California Toy Time Balloons.</h>
+</pair>
+<pair id ='116' contradiction = 'YES' type ='numeric'>
+      <t>Le 20 Janvier 1986, un coup d'Etat militaire dirigé par le général Justin Metsing Lekhanya Jonathan a renversé le gouvernement.</t>
+      <h>Le 15 Janvier 1986, un coup d'Etat militaire dirigé par le général Justin Metsing Lekhanya Jonathan a renversé le gouvernement.</h>
+</pair>
+<pair id ='117' contradiction = 'YES' type ='numeric'>
+      <t>Il y a cinq temps en bas allemand: présent, préterite, parfait, passé parfait et futur.</t>
+      <h>Il y a quatre temps en bas allemand: présent, prétérité, parfait et plus beau.</h>
+</pair>
+<pair id ='118' contradiction = 'YES' type ='numeric'>
+      <t>Les historiens estiment qu'environ 20% de la population blanche peut avoir été loyalistes (soit environ 500 000), mais il n'y a pas de chiffres exacts.</t>
+      <h>Les historiens estiment qu'environ 5% de la population blanche peut avoir été Loyalistes (soit environ 100 000), mais il n'y a pas de chiffres exacts.</h>
+</pair>
+<pair id ='119' contradiction = 'YES' type ='numeric'>
+      <t>Cependant, une fois que l'indépendance a été déclarée en 1776, les Loyalistes qui ont continué à soutenir la Couronne ont été traités par les Patriots comme des traîtres qui se sont retournés contre leurs concitoyens et ont collaboré avec une armée étrangère. Ils ont été expulsés ou désarmés, mais aucun n'a été tenté pour trahison ou exécuté.</t>
+      <h>Cependant, relativement peu de civils loyalistes sont censés avoir été tués par des foules; Deux hommes à Philadelphie ont été officiellement exécutés pour avoir soutenu les Britanniques.</h>
+</pair>
+<pair id ='120' contradiction = 'YES' type ='WK_temporal'>
+      <t>Alain Choquet (né le 18 octobre 1901 - mort le 29 octobre 1991 à Saint-Laurent est un acteur québécois et un artiste enregistreur.</t>
+      <h>In 2002, with Pierre René, Choquet formed Disques La Julienne.</h>
+</pair>
+<pair id ='121' contradiction = 'YES' type ='negation'>
+      <t>Le Parti réformiste américain est un parti politique mineur aux États-Unis qui a été formé dans une division factionnelle du plus grand Parti réformiste des États-Unis en octobre 1997.</t>
+      <h>Le Parti réformiste américain n'est pas un parti politique, il n'a pas d'accès aux bulletins de vote dans aucun État, et il ne dirige pas les candidats.</h>
+</pair>
+<pair id ='122' contradiction = 'YES' type ='WK'>
+      <t>Le 23 décembre 1990, moins de deux semaines avant le 16ème anniversaire de Tammy, Karla Homolka et son fiancé, Paul Bernardo, ont appliqué Tammy avec Halcion, un sédatif, et l'ont violée.</t>
+      <h>Karla Homolka a finalement concédé et obtenu une bouteille d'Halothane (une anesthésie générale liquide) de la clinique vétérinaire où elle a travaillé, qui serait ensuite utilisé pour calmer Tammy pendant le viol.</h>
+</pair>
+<pair id ='123' contradiction = 'YES' type ='lexical'>
+      <t>À l'origine, le scénario de Tarantino a commencé par la même scène "Je voudrais baiser Elvis", mis en avant les crédits d'ouverture, comme la sortie.</t>
+      <h>La première scène du scénario de Tarantino est la scène où Drexl vole la cocaïne.</h>
+</pair>
+<pair id ='124' contradiction = 'YES' type ='lexical'>
+      <t>Dans le livre, Suskind écrit, entre autres choses, que les sources de la communauté du renseignement lui ont révélé qu'Abu Zubaydah ne connaissait rien au sujet des opérations d'al-Qaïda, mais plutôt le fils de Al-Qaeda pour une logistique mineure, comme le voyage pour Les femmes et les enfants.</t>
+      <h>Abu Zubaydah était, d'après les autorités américaines, un membre de haut rang d'al-Qaïda et proche associé d'Oussama ben Laden, bien qu'il y ait des doutes sur son pouvoir et ses connexions en raison du fait que la plupart des informations provenaient d'interrogations où Zubaydah était connu pour Exagère énormément son rôle d'al-Quaeda dans la terreur internationale.</h>
+</pair>
+<pair id ='125' contradiction = 'YES' type ='numeric'>
+      <t>Le premier BBS, ALOHA.net, a été créé à l'Université d'Hawaï en 1972.</t>
+      <h>Neuf dans The Great Chicago Snowstorm de 1978, Ward Christensen a commencé un travail préliminaire sur ce qui finirait par devenir le premier BBS à exister. Le premier BBS, CBBS, est entré en ligne le 16 février 1978 à Chicago, Illinois.</h>
+</pair>
+<pair id ='126' contradiction = 'YES' type ='numeric'>
+      <t>Minesweeper est un jeu informatique à un joueur inventé par Robert Donner en 1989.</t>
+      <h>Il y avait une version sur un Tektronix 4051 vers 1981, mais la tradition de passer autour d'une «bande de jeux» remonte à au moins 1973. Cette bande contient même une version 3D de dragage de mines. L'auteur de ce jeu, David Ahl, est une figure cruciale dans l'histoire précoce des jeux informatiques.</h>
+</pair>
+<pair id ='127' contradiction = 'YES' type ='numeric'>
+      <t>Il a été critiqué en tant que charlatan pseudo-scientifique par la plupart des scientifiques professionnels et des membres de la communauté médicale.</t>
+      <h>Il a été critiqué comme un charlatan pseudo-scientifique par certains scientifiques professionnels et les membres de la communauté médicale.</h>
+</pair>
+<pair id ='128' contradiction = 'YES' type ='numeric'>
+      <t>Il est devenu maréchal dans l'armée britannique en 1940 et a servi dans le cabinet de guerre impériale sous Winston Churchill.</t>
+      <h>Il est devenu un maréchal de campagne dans l'armée britannique en 1941 et a servi dans le cabinet de guerre impériale sous Winston Churchill.</h>
+</pair>
+<pair id ='129' contradiction = 'YES' type ='structure'>
+      <t>À l'heure actuelle, I-75 a une largeur de 15 voies au Windy Hill Interchange (8 vers le nord, 7 en direction du sud) et, en tant que tel, est l'autoroute la plus large au monde.</t>
+      <h>En basculant la ville d'ouest en est dans sa banlieue intérieure, l'autoroute 401 (ou tout simplement "le 401") agit comme un contournement du centre-ville et est à la fois l'autoroute la plus achalandée et la plus large au monde.</h>
+</pair>
+<pair id ='130' contradiction = 'YES' type ='numeric'>
+      <t>En Turquie, il existe environ 820 instituts d'enseignement supérieur, y compris les universités, avec une participation totale de plus de 1 million d'étudiants.</t>
+      <h>La capacité totale des universités turques est d'environ 300 000.</h>
+</pair>
+<pair id ='131' contradiction = 'YES' type ='lexical'>
+      <t>La Turquie cherche à améliorer son climat d'investissement grâce à la rationalisation administrative, à la fin du dépistage des investissements étrangers et à la consolidation de la législation sur la propriété intellectuelle.</t>
+      <h>Un certain nombre de litiges impliquant des investisseurs étrangers en Turquie et certaines politiques, telles que l'imposition élevée des produits cola et les lacunes persistantes dans le régime de la propriété intellectuelle, entravent les investissements.</h>
+</pair>
+</entailment-corpus>
