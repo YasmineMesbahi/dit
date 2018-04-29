@@ -1,1 +1,3 @@
-{"annotator_labels": ["contradiction", "contradiction", "contradiction", "neutral", "contradiction"], "genre": "telephone", "gold_label": "contradiction", "pairID": "110824c", "promptID": "110824c", "sentence1": "Et les demi-finales de la NIT sont sur ce soir", "sentence2": "Les demi-finales de la NIT se déroulent tôt le matin le 1er septembre."}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ff8462131342741e1fdb6f0418711c6496c74cc0f5117ee6c7c36292709f9a7
+size 352
