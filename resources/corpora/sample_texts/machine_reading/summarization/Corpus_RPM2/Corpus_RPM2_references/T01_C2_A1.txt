@@ -1,1 +1,3 @@
-La chaîne colombienne RCN a diffusé une vidéo d'une heure montrant les préparatifs et le déroulement de l'opération Jaque. Seules trois minutes avaient été diffusées jusqu'à présent. Nouvellement libérée et après avoir répondu à toutes les sollicitations, Ingrid Betantourt s'est envolée pour les Seychelles avec ses enfants. A son retour, elle poursuivra son combat pour libérer les otages encore détenus par les Farc et planchera sur ses nombreux projets. Très croyante, elle rencontrera Benoît XVI lors d'un séjour en Italie au cours duquel elle s'entretiendra également avec le président italien et sera décorée par la ville de Florence.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dcf12ed93fddadd98cf40493322d5487fcc24a1262584de79a20a7a96d6449e
+size 641

@@ -1,1 +1,3 @@
-Les salariés de la Caisse d'Epargne ont massivement suivi la grève pour protester contre la faible augmentation de leurs salaires. Ils estiment qu'ils n'ont pas à payer pour les erreurs de gestion des dirigeants du groupe, se référant entre autres à la perte de trading de 751 millions d'euros. A ce sujet, la Commission bancaire envisage de sanctionner financièrement la Caisse d'Epargne. Quant aux dirigeants de la banque qui avaient dû démissionner, ils retrouveraient tous un poste dans le groupe. Tout comme la Banque Populaire avec laquelle elle prévoit de fusionner, la Caisse d'Epargne devrait terminer l'année dans le rouge.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94dc90e190fa6770cefc6b7c5830b83801ec02caa2c1517c065e095b60b1637f
+size 633

@@ -1,1 +1,3 @@
-Même si la réforme semble reportée les syndicats continuent à appeler à la grève et aux manifestations. Sarkozy est prudent et accorde un délai à son ministre pour mener à bien la réforme du lycée. Outre les économies budgétaires, les enseignants et les lycéens s’opposent à la mise en place d’une « école à deux vitesses ». Les blocages dans les lycées continuent afin de dénoncer les suppressions de postes, le nombre d’élèves dans les classes et les inégalités entre établissements que provoquera, à coup sûr, la réforme. Le gouvernement pense que le parti socialiste manipule la situation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4dd771a5ec4d9172d85b170a77a14f3a4e3c11a1865c6e7b10b11d5a82a0768
+size 593

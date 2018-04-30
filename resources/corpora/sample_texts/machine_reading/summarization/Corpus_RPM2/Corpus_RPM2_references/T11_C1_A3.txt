@@ -1,1 +1,3 @@
-Dirigeants politiques, presse et citoyens du monde entier ont salué l'élection de Barack Obama à la Maison Blanche. Avec un écart de 7 millions de voix sur John Mac Cain et un taux de participation record, on parle de victoire éclatante du sénateur démocrate. Celui-ci a toutefois le triomphe modeste en raison des difficultés qui l'attendent : crise financière, guerres en Irak et en Afghanistan. La période de transition, avant son entrée en fonction, qu'il souhaite la plus sereine possible, sera consacrée à constituer la nouvelle équipe gouvernementale tout en collaborant sur certains dossiers avec le gouvernement sortant.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bb18f431359097ad6f24b8f4537f1cc52d0c028143fdce9407ef4e8f06a26f0
+size 629

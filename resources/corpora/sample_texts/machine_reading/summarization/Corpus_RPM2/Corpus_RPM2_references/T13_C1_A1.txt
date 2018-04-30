@@ -1,1 +1,3 @@
-Les autorités cambodgiennes ont fermé l'accès au temple Preah Vihear, site cambodgien depuis 1962. Le classement du temple, patrimoine mondial de l'Unesco, a relancé la dispute du territoire jouxtant le temple. Trois militaires thaïlandais avaient été arrêtés pour intrusion sur le site, provoquant la colère des autorités cambodgiennes. Le Cambodge a fait appel au Conseil de Sécurité de l'ONU et a suspendu la procédure en attendant les résultats d'une réunion des délégations des deux pays. Après 12 heures de négociations, les délégations ont décidé le retrait des troupes qui étaient postés de chaque côté de la frontière, prêts à s’affronter.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef2fa9fe72e506740a345623c161a3a68ba4eba1e75a6f8b597b978835d39969
+size 648

@@ -1,1 +1,3 @@
-Nicolas Sarkozy a convoqué de nouveau les dirigeants des grandes banques au sujet du plan de relance qui prévoit une aide de 320 milliards d'euros. Il a ensuite annoncé l'injection de 10,5 milliards d'euros dans les six banques du secteur privé. Cette somme est destinée à les recapitaliser et à les aider à financer l'économie. En contrepartie, les dirigeants se sont engagés à augmenter de 3 à 4% le montant des crédits alloués aux ménages et aux entreprises et à revoir leurs indemnités en cas de départ. Le Crédit Agricole recevra par ailleurs la plus grosse somme.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4383279b365606f78adb9a86e634aee4f0a90fb5ffa8668e9b20d763306623e
+size 569

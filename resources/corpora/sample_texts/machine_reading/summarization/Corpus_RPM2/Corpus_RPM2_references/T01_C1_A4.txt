@@ -1,7 +1,3 @@
-Libération d'Ingrid Betancourt après 6 ans de détention par les Farc : joies et rumeurs
- La libération de la franco-colombienne fut une spectaculaire opération, réussie et dirigée par le président Uribe, dont la joie colombienne se partagea au niveau international
- Néanmoins elle suscite des interrogations
- La guérilla accuse certains de ses hommes de trahison
- Ceux-ci démentent recevoir de l’argent colombien
- Ingrid Betancourt, reconnaissante envers le président colombien et la France, ne croit pas à une mise en scène, mais « au fruit d’une réflexion » française et colombienne
- La France de son côté nie également avoir versé une rançon
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d9e386728ee6bba7af95687cb71acd60ffd17658d4deded27f62bcd938c85f9
+size 652

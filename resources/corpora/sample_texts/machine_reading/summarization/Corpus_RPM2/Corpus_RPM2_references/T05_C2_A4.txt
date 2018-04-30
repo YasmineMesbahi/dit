@@ -1,1 +1,3 @@
-Recadrement d’Edvige. François Fillon a assuré que “ces fichiers existent depuis toujours”. L’UMP a souligné qu’Edvige est “l’adaptation d’un fichier” crée par la gauche en 1991. La commission nationale de l’informatique et des libertés (Cnil) obtient une satisfaction partielle. Par rapport aux personnalités publiques, la version finale du décret exclut la collecte des données relatives à leurs « déplacements » et « comportement ». Toutefois la Cnil accepte difficilement que les informations concernant les mineurs soient stockées à vie. Cependant ces mineurs auront « droit à l’oubli », si aucun élément nouveau ne survient à leur majorité.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a74df0bd75a837360c21aecb5f23b413d1527e7985e749c336fbfa6f99cd222
+size 648

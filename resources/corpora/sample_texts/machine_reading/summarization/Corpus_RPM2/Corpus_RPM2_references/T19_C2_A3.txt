@@ -1,1 +1,3 @@
-Le choix du gouvernement français de privilégier la relance par l'investissement plutôt que par la consommation déçoit la presse dans son ensemble. Si la ministre de l'économie, secondée par le ministre chargé du plan de relance, se veut rassurante quant à la création d'emplois qui devrait être ainsi générée, on s'inquiète de part et d'autre de voir le déficit public s'aggraver, bien au-delà des 3% fixés par Bruxelles. Des experts regrettent par ailleurs que les ménages aient été oubliés, et jugent inévitable le lancement d'un second plan de relance, cette fois-ci axé sur la consommation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8116a0b218af3a4143667c1ca874d4b15d32ad67e0e8e40fb2b2e8b4a179f8e8
+size 595

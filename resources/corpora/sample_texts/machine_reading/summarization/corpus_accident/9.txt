@@ -1,8 +1,3 @@
-Paris : un bus à double étage s'encastre dans un tunnel, un touriste gravement blessé.
-
-L'accident s'est produit ce vendredi 23 juin dans le tunnel du cours de la Reine, sous le pont Alexandre III.
-
-Aux alentours de 13 heures ce vendredi 23 juin, un bus à impériale de la compagnie Big Bus s'est encastré dans le tunnel parisien du cours de la Reine, situé sous le pont Alexandre III dans le VIIème arrondissement de la capitale. Parmi la vingtaine de touristes présents dans le car, dont certains se trouvaient sur la plate-forme ouverte à l'étage, quatre ont été blessés dont un gravement selon les pompiers, alors qu'une source policière fait seulement part de quatre blessés légers.
-
-Le chauffeur du bus s'est engagé dans le tunnel alors que la voie est interdite aux véhicules de plus de 3,90 mètres de haut, selon un panneau situé à l'entrée. La circulation a été interrompue dans le sens de circulation du bus. Selon une source policière, ce bus à deux étages, dont ce n'était pas le trajet habituel, a emprunté le cours de la Reine qui longe la Seine en raison d'une déviation de la circulation mise en place pour permettre des animations dans le cadre des journées de l'Olympisme dans la capitale. 
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:02e4c2e453fbfb3bed48155cc564090eed844ae43c33623ec6a3b007b0d5e18f
+size 1217

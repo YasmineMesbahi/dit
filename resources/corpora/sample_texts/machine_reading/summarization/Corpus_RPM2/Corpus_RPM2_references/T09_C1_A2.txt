@@ -1,1 +1,3 @@
-Le décès de Chantal Sébire, qui avait demandé sans succès une aide active à mourir, relance le débat sur l’euthanasie. La loi Leonetti, adoptée à l’unanimité en 2005, instaure le droit au "laisser mourir" mais pas à l'euthanasie active. De nombreuses voix demandent à revoir cette loi. L’Eglise est contre tout changement et la presse est divisée. Kouchner et Morano réclament l’exception d'euthanasie, mais Rachida y est opposée. Le premier ministre a demandé à Leonetti de réévaluer la loi pour remédier à sa mauvaise application ou à son insuffisance. La Chancellerie attend l’évaluation pour se prononcer sur une éventuelle modification.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3ec80962d5845bc030a4f94dd8c91d7918042dc3c2c57a605f1a8f4fd2100e2
+size 641

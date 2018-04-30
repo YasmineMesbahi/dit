@@ -1,1 +1,3 @@
-Les militants socialistes ont voté pour élire leur premier secrétaire, mais les deux candidates au poste se disputent la victoire : Martine Aubry devance en effet Ségolène Royal de seulement 42 voix. Le camp de Ségolène Royal dénonce des fraudes et exige un nouveau vote, qui a cependant peu de chances de se réaliser. La commission dite "de récolement" examinera les contestations portant sur le vote des militants, et transmettra son rapport au Conseil national qui désignera en dernier ressort le premier secrétaire. Quelle que soit l'élue, elle aura la difficile tâche de rassembler l'ensemble des socialistes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7409a9d1380dc7d784db912c7df7d7b870d47933fa055fcccafbe69454d1f0c
+size 614

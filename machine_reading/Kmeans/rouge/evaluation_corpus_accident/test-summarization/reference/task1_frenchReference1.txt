@@ -1,10 +1,3 @@
-Un bus s'encastre sous le pont Alexandre III à Paris : quatre blessés, dont un grave.
-Un bus de tourisme à impériale s’est encastré ce vendredi vers 12 heure et 30 à l’entrée d’un tunnel en bord de Seine au niveau du pont Alexandre III, dans le centre de Paris, faisant au moins quatre blessés, a-t-on appris auprès de la police et des pompiers.
-Selon les informations de BFMTV, le blessé grave a été désincarcéré. 
-Selon les pompiers, l'accident a fait au moins quatre blessés, dont un se trouvait dans un état grave. 
-Selon une source policière, ce bus à deux étages, dont ce n’était pas le trajet habituel, a emprunté le cours de la Reine qui longe la Seine en raison d’une déviation de la circulation mise en place pour permettre des animations dans le cadre des journées de l’Olympisme dans la capitale.
-On ne sait pas encore pourquoi, le chauffeur de Cars Rouges (qui effectuent pourtant toujours les mêmes parcours dans la capitale) s’est engagé dans le tunnel, interdit aux véhicules de plus de 2,70 m de haut et visiblement trop bas pour un bus à impériale.
-Big Bus organise des visite des hauts lieux touristiques de Paris dans des bus avec avec toit ouvert panoramique.
-La circulation a été interrompue dans le sens de circulation du bus.
-Un panneau rappelle la hauteur.  
-Le Parisien ajoute de son côté que le véhicule appartient à la compagnie des Cars Rouges et qu'il s'est engagé dans un tunnel interdit aux véhicules de plus de 2,70 mètres de haut.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e6f771cbb996eabbd754e03db6c5b836e9bc87f70763541709448fa0aab7a09
+size 1473

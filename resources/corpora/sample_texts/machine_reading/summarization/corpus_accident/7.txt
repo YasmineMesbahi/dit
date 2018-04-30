@@ -1,13 +1,3 @@
-Un bus de tourisme s'encastre sous un pont
-FranceIl y aurait au moins un blessé grave et trois autres légers dans un accident de bus sous le pont Alexandre III à Paris.
-
-Un bus de tourisme à impériale s'est encastré vendredi vers 12h30 sous un pont, dans le centre de Paris, faisant au moins quatre blessés, a-t-on appris auprès de la police et des pompiers.
-
-Selon ces derniers, l'un des quatre blessés se trouvait dans un état grave. Selon une source policière, qui fait état de quatre blessés légers, au moins dix-huit voyageurs «ont été impliqués» dans cet accident. Le bus s'est encastré à l'entrée d'un tunnel en bord de Seine.
-
-Selon une source policière, ce bus à deux étages a emprunté une voie longeant la Seine après que la circulation eut été déviée, sur son trajet habituel, pour permettre des animations dans le cadre de «journées de l'Olympisme» dans la capitale.
-
-Contactée, la société de transport touristique Big Bus a confirmé qu'un de ses bus était impliqué dans l'accident, sans plus de détails. Big Bus organise des visite des hauts lieux touristiques de Paris dans des bus avec avec toit ouvert panoramique.
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ffa3da0c58f0abd765b81aed9bf4a76723ad6c89384cb94c744182c59d74899
+size 1147

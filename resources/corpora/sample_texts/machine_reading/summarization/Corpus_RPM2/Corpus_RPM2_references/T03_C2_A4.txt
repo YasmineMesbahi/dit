@@ -1,1 +1,3 @@
-L’État vient au secours des banques françaises. L’État renforce les fonds propres des banques, sans en devenir actionnaire, en prêtant 10,5 milliards d’euros aux banques françaises Crédit Agricole, BNP Paribas, Société Générale, Crédit Mutuel, Caisse d’Épargne et Banque Populaire. En contrepartie, les banques doivent s’engager à proposer une offre de crédit aux ménages ainsi qu'aux petites et moyennes entreprises. De plus, les conditions de rémunération des patrons banquiers, en cas de départ contraint, sont fixées. Les banques auront 10 ans pour rembourser leur dette, il s’agirait, avec cette stratégie de les obliger à financer « correctement l’économie ».
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9ad3e5dd0abdbf0c7d92cdb716e7edab0ece6b77d83784ab48a8b678c54876
+size 665

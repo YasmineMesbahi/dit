@@ -1,1 +1,3 @@
-Des moines bouddhistes ont manifesté et ont été arrêtés pour avoir réclamé la libération de moines emprisonnés depuis octobre. Depuis, les monastères sont sous haute surveillance et la capitale quadrillée par l'armée chinoise. Le gouvernement tibétain a fait appel à l’ONU pour mener une enquête sur les émeutes qui ont fait de nombreuses victimes. Le Dalaï-lama, accusé d’avoir fomenté les émeutes par Wen Jiabao, a menacé de démissionner si la situation continuait à se dégrader. Nicolas Sarkozy demande aux chinois de reprendre les discussions avec les tibétains et n'écarte pas la possibilité de boycotter la cérémonie des JO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:656e9e95018d5f547027f57e4bd325dc71f35661ac5eb27eac9664232921d3ee
+size 630

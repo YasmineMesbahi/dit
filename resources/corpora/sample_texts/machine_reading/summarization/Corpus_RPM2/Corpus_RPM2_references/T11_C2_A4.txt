@@ -1,1 +1,3 @@
-L’équipe gouvernementale d'Obama a été désignée. Obama a choisi l’expérience pour former son équipe en appelant des responsables qui travaillaient déjà sous Clinton, comme Hillary Clinton, nommée secrétaire d’État. Il attend de son équipe qu'elle mette en pratique sa propre vision de la politique. Son choix reflète également la diversité de l’Amérique, choisissant notamment Hilda Solis, mexicaine et nicaraguayenne d’origine, au poste de secrétaire du travail et Eric Ken Shinseki, le premier noir à diriger le ministère de la justice. Barack Obama favorise aussi des personnalités ayant des opinions fortes selon lui comme Jones par exemple.
+version https://git-lfs.github.com/spec/v1
+oid sha256:475663759fedcd1b7b3c6d76a0f8736d42a555a4baef91c02d0ed61b72184c46
+size 645

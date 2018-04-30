@@ -1,1 +1,3 @@
-L’élection historique d’Obama est vue comme une chance pour l’Amérique. Les américains attendent beaucoup de leur nouveau président et lui-même conscient du contexte difficile sait que la tâche sera longue et difficile à accomplir même s'il promet d'y arriver. L’absence de résultats rapides pourrait transformer les espoirs en déception. Obama, largement vainqueur, a déclenché un hommage unanime en Europe où les espoirs sont nombreux : crise financière et économique, changement climatique, terrorisme et droits de l’homme. Bush l'a cependant mis en garde : « tout le monde va attendre que vous fassiez un faux-pas..., alors faites attention à vous ».
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f105b537aa099a3e387a78f09c7f349c05bcf73be4f9f95c7a9cc5573a8245a
+size 654

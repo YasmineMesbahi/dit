@@ -1,3 +1,3 @@
-Ingrid Betancourt otage pendant plus de six ans des Forces armées révolutionnaires de Colombie (Farc) et 14 autres otages ont été libérés le 2 juillet par l'armée colombienne lors d'une opération militaire d’infiltration sans violence
- On parle d’une mise en scène et d'un versement aux Farc de quelques 20 millions de dollars pour libérer les otages, mais Bogota a démenti et Paris a nié avoir versé une rançon
- Ingrid a rendu hommage au président Uribe et a défendu le rôle important de la France dans sa libération en remerciant Sarkozy et tous ceux qui ont lutté pour elle
+version https://git-lfs.github.com/spec/v1
+oid sha256:b65a24de3be80ce66fc1da823427dea23a181b462bb819ee182a4f77a3483a5e
+size 580

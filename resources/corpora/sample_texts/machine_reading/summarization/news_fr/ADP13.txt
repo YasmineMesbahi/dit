@@ -1,17 +1,3 @@
-"L'accord de Paris est irréversible et sa pleine intégrité est essentielle à la sécurité et à la prospérité de notre planète, de nos sociétés et de nos économies", ont réaffirmé dans un communiqué final six des sept Etats réunis à Bologne (Italie) les 11 et 12 juin pour le G7 environnement. Les négociations portaient sur des questions environnementales comme l'économie circulaire, la pollution maritime, la réforme fiscale environnementale ou le climat. Dans le texte final, les ministres de l'environnement de l'Allemagne, du Canada, de la France, de l'Italie, du Japon, du Royaume-Uni et les Commissaires européens responsables de l'environnement ont défendu l'intérêt des accords signés à Paris lors de la COP21. Sans surprise, les Etats-Unis à travers Scott Pruitt, directeur de l'Agence américaine de protection de l'environnement (EPA) ont refusé d'être associé à la section relative au climat du texte. "Paris n'est pas la seule voie à suivre pour progresser, a indiqué dans un communiqué Scott Pruitt. Nous souhaitons nous engager sur une scène internationale qui profite grandement à l'ingéniosité américaine, à l'innovation et aux technologies de pointe".
-
-De nombreuses voix ont regretté la désolidarisation des Etats-Unis. "Comme la déclaration l'indique clairement, il n'y a pas d'enclin à « renégocier » l'Accord de Paris, et l'impulsion vers une économie mondiale basée sur des énergies renouvelables propres continuera à toute vitesse malgré les efforts du président Trump et de Scott Pruitt pour le ralentir", a estimé Alden Meyer, directeur de la stratégie de l'Union of Concerned Scientists.
-
-Pour Laurence Tubiana, directrice de la Fondation européenne pour le climat et ancienne ambassadrice chargée des négociations sur le changement climatique : "En choisissant de ne pas suivre le reste des pays du G7, l'Administration Trump achève son isolement et nuit aux entreprises américaines et aux travailleurs américains."
-
-
-Le président Donald Trump a eu "tort" de sortir les Etats-Unis de l'accord de Paris sur le climat, a déclaré mardi le nouveau ministre britannique de l'Environnement, Michael Gove.
-"Je crois qu'il a tort. Je crois que nous avons besoin d'une coopération internationale pour répondre au changement climatique", a déclaré M. Gove sur la chaîne ITV. "Et je crois que l'accord de Paris (...) est un pas en avant significatif" dans cette direction, a ajouté le ministre, nommé dimanche au sein du nouveau gouvernement conservateur de la Première ministre Theresa, après les législatives de jeudi.
-
-M. Trump avait annoncé début juin sa décision de quitter l'accord de Paris, suscitant une immense déception parmi les 194 autres pays signataires de ce texte historique.
-
-"L'accord de Paris minerait notre économie, paralyserait nos salariés, affaiblirait notre souveraineté, imposerait des risques juridiques inacceptables et nous placerait dans une position désavantageuse permanente face aux autres pays du monde", avait déclaré le président américain.
-
-La Première ministre britannique Theresa May avait dans la foulée exprimé sa "déception" à Donald Trump, en soulignant que l'accord de Paris protégeait "la prospérité et la sécurité des générations futures, tout en assurant l'accessibilité de l'énergie pour nos citoyens et nos entreprises".
-
-Les Etats-Unis sont le deuxième émetteur mondial de gaz à effet de serre, derrière la Chine.
+version https://git-lfs.github.com/spec/v1
+oid sha256:221dcbaa271c0ca947903ad59ece91b572b8f655e2d8752820d476d7b5ee634c
+size 3395

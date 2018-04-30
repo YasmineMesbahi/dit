@@ -1,7 +1,3 @@
-Paris : un bus de tourisme à étage heurte un pont, des blessés grave.
-
-Un bus de tourisme à étage s'est encastré sous un pont parisien, ce vendredi midi. Il y a au moins 4 quatre blessés dont un grave, selon le premier bilan des pompiers. Les images sont impressionnantes. 
-Un accident spectaculaire a eu lieu ce vendredi midi à Paris. Selon les informations du Parisien qui révèle cette information, un bus de tourisme à étage s'est encastré dans le pont Alexandre III, dans le centre de la capitale. D'après le premier bilan étalbi par les pompiers, il y a au moins quatre blessés, dont un dans un état grave. 
-
-Une source policière a par ailleurs précisé qu'au moins dix-huit personnes ont été "impliquées" dans cet accident.  Le Parisien ajoute de son côté que le véhicule appartient à la compagnie des Cars Rouges et qu'il s'est engagé dans un tunnel interdit aux véhicules de plus de 2,70 mètres de haut. On ignore encore les circonstances de cet accident. 
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:06cd948a2629fa0d33ebda0ef4fea2af3fff1298f67e8d2ff038c723a428e515
+size 972

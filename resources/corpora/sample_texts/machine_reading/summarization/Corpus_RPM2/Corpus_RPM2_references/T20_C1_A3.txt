@@ -1,1 +1,3 @@
-Au Tibet, à l'occasion du 49e anniversaire du soulèvement anti-chinois de Lhassa, des manifestations pacifiques de moines bouddhistes auraient fait place à de violentes émeutes. Si le dalaï-lama, depuis l'exil, condamne la violence et menace de se retirer si la situation se dégradait davantage, les autorités chinoises l'accusent ouvertement d'avoir orchestré ces troubles. Pékin fait état de 19 morts, alors que le gouvernement tibétain en exil en compte plus de 140. Les pays occidentaux appellent la Chine à la retenue, mais à cinq mois de l'ouverture des Jeux Olympiques de Pékin, il n'est pas question de boycott.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd15b372c345fb5f323009df7c19e6fe8b74c887866ca027464500baebbcd9ac
+size 619

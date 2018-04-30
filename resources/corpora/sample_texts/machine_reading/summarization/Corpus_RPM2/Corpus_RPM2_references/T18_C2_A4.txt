@@ -1,1 +1,3 @@
-L’Assemblée a adopté la suppression partielle de la publicité sur les chaînes de la télévision publique, entre 20h00 et 6h00, bien que le texte doive encore être examiné au Sénat en janvier. Selon certaines personnalités de gauche cette réforme est dangereuse et néfaste pour le pays. Les difficultés reposent essentiellement sur la question du financement qui permettra de compenser la suppression publicitaire et sur le fait que le PDG de France Télévision serait élu par le président de la république. Les chaînes privées, quant à elles, pourraient réaliser une deuxième coupure lors de la diffusion de films et de fictions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b45994b3cbe52ceb4e2b9d17cd9e11a5454f6018eabe17928837a13c0131b86b
+size 627

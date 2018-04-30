@@ -1,1 +1,3 @@
-Mohamed, trouvé seul dans une cité à Marseille, était inconnu des habitants du quartier. Une proche l'a reconnu 13 jours plus tard en découvrant sa photo dans la presse. Sa mère l'avait confié à une nounou pour se rendre au chevet de sa mère en Algérie. La nounou, en situation irrégulière, n'aurait pas osé se présenter à la police. A son retour, la mère a été interpellée par la police pour aide au séjour irrégulier. Deux proches de la nounou ont aussi été interpellés. Mohamed est actuellement placé chez une assistante sociale et n'a toujours pas vu sa mère.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7da2cb3ed1468c0b0a9a7af2858bf9008194840be82636b8ae651e8068a7f6cb
+size 563

@@ -1,1 +1,3 @@
-La crise financière ne touche pas seulement la Caisse d’Epargne, Natixis et la Banque Populaire annoncent aussi des pertes, mais les nouveaux dirigeants de la Caisse ont déclaré que ces événements n’affectèrent pas les discussions de fusion avec la Banque Populaire ni les relations avec Nexity. Les Caisses d'épargne doivent rester une banque de détail et une fusion avec la Banque Populaire les permettra de devenir la deuxième banque française. Cependant les salariés de la Caisse en ont ras-le-bol. Ils ont répondu massivement à l’appel à la grève contre les propositions salariales faites par la direction. Les discussions continuent.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a21c94cf97f4d044f7eff10d0e0053fae8f8c72e58c05c3b83ab54499923c2b9
+size 639

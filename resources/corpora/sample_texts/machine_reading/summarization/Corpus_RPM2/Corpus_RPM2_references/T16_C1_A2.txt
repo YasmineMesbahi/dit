@@ -1,1 +1,3 @@
-Les principaux syndicats de magistrats ont saisi le Conseil supérieur de la magistrature pour enquêter sur l’affaire de Metz. En ordonnant ces auditions, le Conseil a adressé un avertissement à la ministre de la Justice. Une forte mobilisation des magistrats et de l'ensemble des professions judiciaires a eu lieu contre la politique de la garde des Sceaux, qui affiche un bilan très négatif. En réponse à cette situation, Sarkozy a reçu l’Union syndicale des magistrats qui est sortie satisfaite de l'entretien. Les erreurs de communication et l'absence de sens politique de Rachida Dati pourraient conduire le Président à la remplacer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8523aeb847126ae86e533a453830aea49ac46b7bf6c1c5305af36fad4d59355f
+size 637

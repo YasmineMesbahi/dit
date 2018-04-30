@@ -1,1 +1,3 @@
-Le Cambodge et la Thaïlande se trouvent au bord du conflit militaire, en raison d'un différend lié à l'appartenance du temple de Preah Vihear. Si ce site sacré de l'hindouisme, datant du XIe siècle, a été attribué au Cambodge en 1962 par la Cour internationale de justice de La Haye, la question du territoire adjacent n'est pas encore résolue. La polémique a été ravivée par l'inscription du site sur la liste du patrimoine mondial de l'Unesco, et sur fond de tensions internes au sein des deux pays concernés. Ceux-ci semblent toutefois vouloir jouer la carte de l'apaisement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7a337880626fbdcc7c1a4c0aba26cc913faed7bcb292135c63a6e2eb0bd0872
+size 578

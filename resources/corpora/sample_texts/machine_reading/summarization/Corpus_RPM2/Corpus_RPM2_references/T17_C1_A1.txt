@@ -1,1 +1,3 @@
-Des professeurs craignent déjà la réforme du lycée qui, en organisant l'enseignement en un tronc commun avec des modules optionnels, risque de léser certaines disciplines. La réforme prévoit aussi une réduction des heures de cours et la suppression de la voie technologique et des séries L, S, ES, ce qui a beaucoup déplu à la Snes-FSU. Malgré les dizaines de milliers de manifestants, Darcos a quand même présenté les premiers points de sa réforme qui devrait permettre une plus grande autonomie des lycéens. Les points importants de cette première étape est la semestrialisation des cours et le soutien scolaire.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b628ed810693bcaff7269216e7938e76082bac0ff60d8db3e0685ffd73d0a4f
+size 614

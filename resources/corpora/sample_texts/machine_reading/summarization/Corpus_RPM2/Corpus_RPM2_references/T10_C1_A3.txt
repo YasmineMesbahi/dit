@@ -1,1 +1,3 @@
-Un garçonnet a été retrouvé seul, errant dans une cité de Marseille. Confié à la police puis à une famille d'accueil, il s'est écoulé plusieurs jours avant que la mère de l'enfant ne se manifeste. Celle-ci, devant se rendre en Algérie, avait confié son fils à une amie moyennant finances. La "nounou", introuvable depuis, ne s'est pas rendue aux services de police parce qu'elle serait en situation irrégulière. La mère de l'enfant a par conséquent été placée en garde à vue pour aide au séjour irrégulier. Une enquête sociale déterminera si la femme est apte à s'occuper de son fils.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebe9f4efa619061bb639c7de553439b042e5280f5a8a3592aaf7c9f8add618c7
+size 584

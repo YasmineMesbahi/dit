@@ -1,1 +1,3 @@
-Le Dalaï-lama a fait un séjour de douze jours en France avec un objectif essentiellement religieux et spirituel. Ce séjour a été marqué par des visites et inaugurations de temples et par la dispense d'enseignements à Nantes. A l'annonce de sa venue, Nicolas Sarkozy a indiqué qu'il ne le rencontrerait pas mais que sa femme le ferait. Cela a suscité une vive polémique auprès de l'opposition et des défenseurs des droits de l'Homme. Par contre, Ségolène Royal, Rama Yade et Bernard Kouchner, ont pu s'entretenir avec le chef spirituel qui en a profité pour dénoncer la répression chinoise au Tibet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f1dc155fe0e6e8aa62d93f8f5a1c2b1d5fe7aebe90b4cb4893babe7fa2d7414
+size 598

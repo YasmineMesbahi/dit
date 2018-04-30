@@ -1,4 +1,3 @@
-Après plus de six ans de captivité dans la jungle colombienne aux mains des FARC, Ingrid Betancourt a été libérée le 2 juillet, avec quatorze autres otages
- Cette libération est attribuée à l'armée colombienne, qui avait infiltré des hommes parmi les guerilleros et mis au point une opération spectaculaire de sauvetage des otages par hélicoptère
- Bien que les FARC accusent deux des leurs de les avoir trahis, il s'avère qu'aucune rançon n'aurait été versée
- L'ex-otage franco-colombienne a retrouvé sa famille avec émotion et a tenu à remercier la France pour son soutien
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b688941e9d8237c817f531f85a1dc686c53d6657e4c1f349ccccab9f59bbf37
+size 578

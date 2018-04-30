@@ -1,1 +1,3 @@
-La mission Leonetti a rendu ses conclusions, excluant la légalisation de l'euthanasie. En revanche, elle propose plusieurs mesures visant à améliorer les soins palliatifs, telles que la création d'un Observatoire de la fin de vie et une formation accrue des médecins dans ce domaine. La mise en place d'un congé payé pour le parent accompagnant le malade est également à l'étude. Ces mesures sont loin de satisfaire tout le monde, à commencer par le président de l'ADMD qui les trouve "hypocrites". Ce dernier, entouré de parlementaires, a d'ailleurs annoncé son intention de déposer une proposition de loi pour encadrer l'euthanasie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:520eb083542e770715ffad7cb8f74a03c2932d719ce4523cd12406d4b7bb9dd6
+size 634

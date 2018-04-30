@@ -1,1 +1,3 @@
-Trois mois après les premiers incidents liés au site de Preah Vihear, la situation est de plus en plus tendue entre le Cambodge et la Thaïlande. Des échanges de tirs ont eu lieu à quelques kilomètres du temple, faisant au moins deux morts et sept blessés. Les deux pays se rejettent mutuellement la responsabilité de la fusillade, alors que le Cambodge mettait en garde contre les risques d'un "conflit armé" et que la Thaïlande dépêchait des renforts à la frontière. Ces incidents permettraient cependant de détourner l'attention de la crise politique intérieure que vit la Thaïlande.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d1d163c8514e18c94b4715c38304c8e8c8a1fe0a1a746d6d36e2312573a7a2b
+size 585

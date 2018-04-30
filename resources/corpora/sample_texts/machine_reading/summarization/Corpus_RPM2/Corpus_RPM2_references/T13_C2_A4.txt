@@ -1,1 +1,3 @@
-Échange de tirs à la frontière Thaïlande-Cambodge. Les deux pays se sont reprochés mutuellement d’être responsable d’un échange de tirs qui ont fait 2 morts et 7 blessés. Le Cambodge accuse les soldats thaïlandais de pénétrer sur son sol alors que le ministre thaïlandais estime qu’ils sont dans leur pays. Les deux pays refusent de communiquer les effectifs des renforts dépliés à la frontière. En raison de ces tensions militaires, le temple est fermé aux touristes et aux experts depuis l’été. Les thaïlandais contrôlent les principaux accès au temple. Plusieurs secteurs n’ont pas été délimités depuis des décennies.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4352f0ecdfd51e46622d4653a01f3549a425d71103751200d3ce810d928e2ae
+size 622

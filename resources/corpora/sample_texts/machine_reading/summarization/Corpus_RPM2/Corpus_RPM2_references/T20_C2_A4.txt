@@ -1,1 +1,3 @@
-Même si la Chine reconnait avoir tué un manifestant, elle continue d’accuser le Dalaï-lama d’avoir voulu « saboter » les Jeux Olympiques. Les tibétains sont accusés de mettre en place de prochains commandos suicides pour mener des attentats. Les chinois précisent saisir de nombreuses armes. Un rapport d’Amnesty International dénonce l’état des droits de l’homme en Chine, en la tachant du « nettoyage » de manifestants tibétains avant le début des Jeux Olympiques. La Chine est appelée à divulguer les véritables chiffre du dernier bilan. Selon le gouvernement, le nouveau bilan est bien supérieur aux derniers chiffres connus.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d56bf68d3f1e537570e85e9b724ee652d8b1ccc977f6d44094a5a99c4220cef
+size 629

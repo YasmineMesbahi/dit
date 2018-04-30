@@ -1,10 +1,3 @@
-On ignore encore les circonstances de cet accident.
-Un panneau rappelle la hauteur.
-Selon une source policière, ce bus à deux étages a emprunté une voie longeant la Seine après que la circulation eut été déviée, sur son trajet habituel, pour permettre des animations dans le cadre de "journées de l'Olympisme" dans la capitale.
-Un bus de tourisme à impériale s’est encastré vendredi vers 12H30 sous le pont Alexandre III, dans le centre de Paris, faisant au moins quatre blessés, indique la police et les pompiers.
-L’accident s’est produit vers 13 heures, sous le pont Alexandre III, au cœur de la capitale.
-Les pompiers déplorent au moins quatre blessés dont un grave.
-Un bus de tourisme heurte un pont parisien, au moins quatre blessés.
-Selon une source policière, ce bus à deux étages a emprunté une voie longeant la Seine après que la circulation eut été déviée, sur son trajet habituel, pour permettre des animations dans le cadre de "journées de l'Olympisme" dans la capitale.
-Un bus de tourisme à impériale s’est encastré vendredi vers 12H30 sous le pont Alexandre III, dans le centre de Paris, faisant au moins quatre blessés, indique la police et les pompiers.
-Le bus touristique de la société Big Bus qui les transportait a heurté le tunnel au niveau du pont Alexandre III, dans le 8e arrondissement de la capitale où il s'est encastré vers 12h30.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e22b7ac2e7737159b96647754c59c708df72fd6aa48707dd62e16458de036ab
+size 1366

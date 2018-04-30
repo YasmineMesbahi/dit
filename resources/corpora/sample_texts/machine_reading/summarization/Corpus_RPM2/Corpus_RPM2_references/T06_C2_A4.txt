@@ -1,1 +1,3 @@
-La Chine relève le défi olympique. Elle réussit aussi bien au niveau de l’organisation qu’au niveau politique. La haute surveillance pendant les JO a permis d'éviter les troubles. Néanmoins, les personnes ayant osé manifester, se sont vues expulsées. Côté sportif, la Chine a largement dépassé les Etats-Unis avec 51 médailles d’or contre 36. De plus, peu d'athlètes ont été contrôlés positifs. Côté ambiance pékinoise, des critiques ont été émises par des sportifs, ayant dû faire face au dispositif de sécurité très strict. La Chine a ainsi montré durant ces JO une nouvelle face au monde.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48abbe44801d49ee8d6253b145fa185527313d14459550b3344e263a927a43a9
+size 591

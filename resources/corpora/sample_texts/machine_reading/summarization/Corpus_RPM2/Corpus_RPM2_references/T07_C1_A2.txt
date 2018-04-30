@@ -1,1 +1,3 @@
-La Société Générale (SG), victime d'une fraude entraînant une perte de 4,9 milliards, a déposé plainte contre le trader Jérôme Kerviel pour faux, usage de faux et atteinte au système de traitement automatisé des données. Le parquet de Paris a ouvert une enquête. Kerviel est en garde vue, son domicile et le siège administratif de la SG ont été perquisitionnés. Daniel Bouton a démenti la responsabilité de sa banque dans la chute des marchés financiers mais également le fait de faire porter à Kerviel des pertes imputables à la crise financière. Des éléments nouveaux pourraient aller contre la Société Générale.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a147f250426a86a4641dc56654f6e59aa3498a0ada7d2ad818bb562b8c01ead1
+size 614

@@ -1,15 +1,3 @@
-L’administration Trump a décidé la semaine dernière de quitter l’accord de Paris sur le climat. Le motif du retrait serait que l’accord n’est pas avantageux pour le monde et pour les États-Unis. La décision a été fortement critiquée, notamment par les cent quatre-vingt-quinze pays signataires de l’accord. Derrière la Chine, les États-Unis occupent pourtant la deuxième place en termes d’émission mondiale de carbone.
-
-L’UE  n’a cependant pas encore dit son dernier mot et elle a même trouvé un moyen de contourner la décision de l’administration Trump en se tournant vers les maires, les gouverneurs et les dirigeants américains.
-
-Plusieurs personnalités locales ont en effet décidé de se passer de l’autorisation de leur président et de se réunir en vue de travailler sur un projet de réduction des émissions.
-
-Dirigée par Michael Bloomberg, l’ancien maire de New York, cette coalition a entamé un rapprochement stratégique en direction de l’Union européenne.
-
-Bloomberg avait déjà initié un forum avec Maros Sefcovic, le vice-président de la Commission de l’UE. L’événement a été intitulé « Une convention mondiale des maires pour le climat et l’énergie ». Celui-ci a regroupé plus de cent trente villes américaines.
-
-« Je suis un fervent défenseur de l’action locale. Regardez les pouvoirs des maires : ils sont responsables des transports, de la pollution de l’air, de la gestion des ordures… Or, on voit aux États-Unis que maires et gouverneurs restent engagés. » a constaté M. Bloomberg.
-
-De son côté, M. Sefcovic a affirmé qu’il était très optimiste en ce qui concerne l’engagement local aux États-Unis contre le réchauffement climatique. Il a salué les actions courageuses des maires et des dirigeants des milieux d’affaires, des hommes et des femmes qui ont décidé d’agir en dépit des décisions prises par le gouvernement fédéral.
-
-Pour sa part, Jerry Brown, le gouverneur de Californie, n’a pas mâché ses mots en évoquant cette coalition : « Le monde n’en fait pas assez. (…) Nous nous dirigeons vers un avenir désastreux, à moins d’accroître le tempo de notre changement ». « Les États-Unis ont saisi l’importance de cette technologie propre (…) Notre expérience prouve qu’il est possible de faire le bon choix à la fois pour l’environnement et l’économie. » a-t-il ajouté.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23d18e4989ba618154125ed8c8ec7a4d8985948660fe0f8bf946612a248a04c8
+size 2300

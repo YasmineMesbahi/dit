@@ -1,1 +1,3 @@
-Des tests ADN ont montré que la mère supposée de l’enfant trouvé à Marseille n'est pas sa mère biologique. Elle a été mise en examen pour simulation d’enfant, aide au séjour irrégulier et faux en écriture publique. Elle est placée sous contrôle judiciaire avec interdiction de quitter le territoire. Elle se défend en évoquant une adoption validée par un magistrat algérien et affirme avoir menti de peur qu’on lui enlève l’enfant. Cette adoption pourrait être liée à la perception d'allocations familiales ou à un trafic d'enfants. Le juge a adressé une commission rogatoire à l'Algérie pour retrouver les parents biologiques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee318bbcc8f551662315da1b023cc0b89c00b5eac83a3de724fa8fab5f123ba9
+size 627

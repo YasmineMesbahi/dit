@@ -1,1 +1,3 @@
-La crise entre la Chine et le Tibet s’aggrave. Après de violentes manifestations de tibétains à Lhassa, le bilan déclaré par Pékin est de 19 morts alors que du côté Tibétain, il est fait état de 140 morts et 29 mandats d’arrêts. Pékin accuse la « clique » du dalaï-lama d'être aux commandes des émeutes. De l’autre côté, les moines sont constamment victimes de discrimination et considérés comme un véritable danger par l’État. Le Dalaï-lama appelle au calme et réclame une large autonomie pour sauvegarder sa culture. Les pays occidentaux appellent la Chine à arrêter ses répressions.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5a4b5de2b28229e0424e06813d751d3c16496a15fcdfa623ac21efe0b774047
+size 585

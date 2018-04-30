@@ -1,1 +1,3 @@
-La crise entre le Tibet et la Chine s'aggrave. Des manifestations ont éclaté à Lhassa et dans les régions avoisinantes, qui ont été réprimées violemment par les forces chinoises faisant plusieurs victimes. La Chine accuse le Dalaï-lama d'être à l'origine des émeutes et pense à nouveau que le désir d'indépendance du Tibet n’a pour but que de saboter les Jeux olympiques. De son côté, le dalaï-lama a appelé à la non-violence menaçant de quitter sa charge de chef spirituel du bouddhisme si la situation se dégradait. Les partisans du Dalaï-lama réclament une simple autonomie culturelle pour leur pays.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ad6594517b4dab51aa046884d5b0e31d7c3d0ece767353367f5bffed46ab46d
+size 603

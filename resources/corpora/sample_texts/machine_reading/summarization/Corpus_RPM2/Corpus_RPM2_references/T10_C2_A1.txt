@@ -1,1 +1,3 @@
-Des tests ADN ont révélé que la femme qui s'était présentée comme la mère de Mohamed ne l'était finalement pas. L'identité de l'enfant reste inconnue. La "mère" a été mise en garde à vue pour simulation d'enfant et pour faux en écriture publique. Cependant, elle a affirmé avoir adopté l'enfant en Algérie par la "Kalafa" et avoir tous les papiers le prouvant. Les derniers rebondissements de cette affaire laisse croire que cette adoption avait pour but d'obtenir des prestations familiales. Ce que nie la femme qui clame aimer Mohamed. Elle a réclamé à la justice de le lui rendre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2654090c1fc3aeb06f05fa3283d5f187f614d5c8caacd253e94ec548e0b5714f
+size 583

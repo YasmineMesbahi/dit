@@ -1,1 +1,3 @@
-Barack Obama a été élu président des Etats-Unis lors d'une victoire historique et écrasante. Lors de sa première conférence de presse, il pourrait déjà annoncer des premiers nominés aux postes clés du nouveau gouvernement. Le pays attend des précisions sur la façon dont il entend faire face à la crise. Il prendra officiellement ses fonctions le 20 janvier 2009. La transition est en train de se mettre en place. Ses premières épreuves seront le sommet du G20 et le dossier irakien. Bush a reçu Obama à la Maison Blanche le félicitant et lui assurant sa complète coopération.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec4b0ab6e0914f55b8dc5df4909c0ecb0f7ca1496abbb364ebd3752575562ebb
+size 576

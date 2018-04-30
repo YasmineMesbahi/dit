@@ -1,1 +1,3 @@
-Après le démenti d’Aznar, Arthur, Eric Besson et Bernard Laporte ont démenti publiquement la paternité de l’enfant de Rachida Dati. Elle est apparue à la télé pour défendre sa politique et répondre aux questions des Français. Cependant les professionnels de la justice sont exaspérés et mécontents de la ministre. Ils ont signé un communiqué et ont annoncé une journée de protestation nationale contre les méthodes et les reformes de la ministre, considérées injustes et répressives. Sarkozy commence à s’agacer de ces polémiques et de l’hypermédiatisation de Dati. Dans les sphères de la République, on parle déjà de son prochain remplacement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e77505ae6370af7fa1335f8ff47d25047b024ee803fd01ff307e9a725a5c0aa
+size 644

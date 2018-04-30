@@ -1,13 +1,3 @@
-Les Golden State Warriors s'imposent 113-91 contre les Cleveland Cavaliers dans la première manche.
-
-Avantage Golden State Warriors. L'équipe de Californie a largement remporté (113-91), dans la nuit de jeudi à vendredi, le premier match de la finale NBA, le championnat de basket nord-américain, qui l'oppose aux Cleveland Cavaliers. Le champion sera l'équipe qui totalisera la première quatre victoires. 
-
-Le match de jeudi se déroulait à domicile pour Golden State, à Oakland. Les Warriors, toujours invaincus depuis le début des play-offs 2017 (la phase finale du championnat) ont signé leur 13ème victoire consécutive, record NBA égalé. Les Cavaliers de la star LeBron James, champions en titre, ont tenu le choc pendant une période et demie face à la meilleure équipe de la saison régulière des trois dernières années.
-
-
-Sous l'impulsion de Kevin Durant (38 pts) et de Stephen Curry (28 pts), Golden State s'est détaché en fin de deuxième période pour compter dix points d'avance (55-45). James, qui dispute sa septième finale consécutive, a ramené son équipe à huit longueurs avant la pause (60-52), mais les Warriors sont repartis de plus belle durant le troisième quart-temps, où ils ont définitivement creusé l'écart.
-
-Golden State et Cleveland s'affrontent en finale pour la troisième année consécutive, une première dans l'histoire de la NBA. Les Warriors avaient remporté le titre 2015, mais ont été détrônés en 2016 par les Cavaliers après avoir pourtant mené trois victoires à une. Les Cavaliers ont remporté les trois derniers matches de la finale 2016, dont deux à Oakland.
-
-Dimanche, le deuxième match de la finale 2017 se déroule à Oakland.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b9ed15a9fbf45ac872ca900f04048a38c822d630b59c537a773c8eafa32ef46
+size 1674

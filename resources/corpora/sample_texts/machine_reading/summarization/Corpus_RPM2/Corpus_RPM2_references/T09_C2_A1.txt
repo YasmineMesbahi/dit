@@ -1,1 +1,3 @@
-Le rapport Leonetti exclut de nouveau la légalisation de l'euthanasie. Il prévoit néanmoins des aménagements pour mieux accompagner les malades comme la création d'un Observatoire sur la fin de vie destiné à mieux former les médecins sur les soins palliatifs ou l'institution d'un congé d'accompagnement qui serait financé par les entreprises. Jean-Luc Romero s'est déclaré très déçu ne constatant aucune évolution majeure de la loi. Il rencontrera par ailleurs quelques parlementaires pour une proposition de loi dans le cadre d'une niche parlementaire. Le député PS, Manuel Valls présentera aux députés PS, une proposition de loi sur l'"aide active à mourir".
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8b80f0fb7b81b0e5b506fceb55dd6690dc5de25cf98d30826374e1c6464ed70
+size 661

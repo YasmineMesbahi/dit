@@ -1,1 +1,3 @@
-Les manifestations se succèdent dans l'Education contre le projet de réforme du lycée de Xavier Darcos. Lycéens, enseignants, parents d'élèves ou encore personnel de l'Enseignement supérieur défilent dans la rue tour à tour ou ensemble, à l'appel des syndicats ou de manière spontanée. Mais ce sont les lycéens qui se mobilisent le plus activement, n'hésitant pas à recourir au blocage des lycées, pour exprimer leur inquiétude quant à la suppression de postes d'enseignants et l'augmentation du nombre d'élèves par classe. Craignant un embrasement du mouvement lycéen, le gouvernement a finalement préféré ajourner la réforme pour le moment.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19ff057de4550a1ab764fb9f6d99c0367ba35c049aee1d869a89db5e53a56b67
+size 642

@@ -1,1 +1,3 @@
-La pétition lancée contre la création du fichier Edvige compte aujourd'hui plus de 120000 signatures et 13 recours ont été déposés auprès du Conseil d'Etat qui rendra sa décision fin décembre. La polémique a aussi atteint certains membres du gouvernement qui ont vivement critiqué le fichier. Les personnalités religieuses, directement concernées, ont également réagi. Après deux ordres express de Sarkozy, Michèle Alliot-Marie a remanié le décret qui, ne comprendra plus d'informations sur les personnes publiques, syndicales et religieuses ainsi que sur l'orientation sexuelle. Les associations et syndicats se sont déclarés déçus car ils voulaient en faire une loi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a463ada1ad8122e0d7c31ab4f8bdd002470ed55e2978170e96be2b5838a20c95
+size 668

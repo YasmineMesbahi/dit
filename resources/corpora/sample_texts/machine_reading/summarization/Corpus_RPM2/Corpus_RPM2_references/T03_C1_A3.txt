@@ -1,1 +1,3 @@
-Si les banquiers se veulent rassurants sur l'argent des épargnants, compte-tenu de la stabilité du dispositif bancaire français, la crise financière affecte en revanche l'offre de crédit. Particuliers et entreprises rencontrent ainsi plus de difficultés pour emprunter, et cela en dépit d'une réunion à l'Elysée où Nicolas Sarkozy a rappelé aux banques que leur mission première était de financer l'économie. Le ralentissement économique ne sera pas non plus sans conséquence sur l'emploi, particulièrement pour certains secteurs. Des suppressions de postes ont par ailleurs déjà été annoncées au Crédit Agricole, la banque française la plus touchée par la crise des subprimes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6c5d9e67be251d240510012bbc24f151ae80f51ec0995a3ce9fcae8e85fb644
+size 677

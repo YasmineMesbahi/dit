@@ -1,5 +1,3 @@
-Des parlementaires UMP et PS souhaitent une " aide active à mourir "
-Déçus par les conclusions du rapport du député Jean Leonetti (UMP), rendu public la semaine dernière, plusieurs parlementaires UMP et PS ont souhaité pousser plus loin la discussion et faire aboutir une proposition de loi sur " l'aide active à mourir ".
-Pour Manuel Valls (PS), la loi Leonetti " laisse un certain nombre de situations sans réponse ", or " la société est prête à aller plus loin ".
-La proposition de loi, que le groupe socialiste entend rédiger à partir de la mi-janvier, devrait être débattue lors d'une " niche " socialiste.
-Henriette Martinez, députée UMP, soutient cette initiative pour " pousser les députés à prendre position " et s'est dite favorable à la " constitution d'un groupe de travail députés-sénateurs au sein de l'UMP ".        
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa2b32671846111863daabf6df841100882880121476f6acf1632286eaa06c8
+size 837

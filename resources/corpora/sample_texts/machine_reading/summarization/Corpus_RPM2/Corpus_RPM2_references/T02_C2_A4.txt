@@ -1,1 +1,3 @@
-Grèves, pertes et fusion. Le plus important promoteur immobilier français, Nexity, dément la séparation avec la caisse d’Epargne. Natixis, la filiale de banque d’investissement commune aux groupes Banque populaire et Caisse d’Epargne aurait perdu environ un milliard d’euros. La négociation sur les salaires des Écureuils provoque une grève des salariés qui refusent la proposition minimale d’augmentation alors que l’inflation est plus importante. L’Écureuil qui souhaite fusionner avec les Banques populaires au printemps aimerait revenir à une banque de détails. Le nouveau directeur dit vouloir tourner la page concernant les pertes antérieures et les stratégies des ses prédécesseurs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fdaff2f0c3b9c012177b964d40d5f5243f5de4c152293c75603dadb4cf4b1e5
+size 691

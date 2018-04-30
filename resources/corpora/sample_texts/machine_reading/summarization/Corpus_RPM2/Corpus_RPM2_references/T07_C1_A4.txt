@@ -1,1 +1,3 @@
-Jérôme Kerviel et la fraude de la Société générale. Dans les forums, le trader est parfois vu comme un bouc-émissaire. D’autres, plutôt anti-Kerviel, ne pardonnent pas au trader la perte des 5 milliards d’euros. Selon les dires d’un ancien trader, ce genre d’affaire arrive tous les jours. La Société Générale aurait été au courant de ces disfonctionnements depuis quelques temps déjà puisqu’une filiale de la bourse allemande aurait alerté la banque française en 2007 au sujet de couvertures insuffisantes. Nicolas Sarkozy, rassurant, a indiqué que cette fraude «interne » n’avait pas touché la fiabilité du système financier français.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da7ffa076b24aee7487e47985882560571d0d74e228320267aab9de500a01b1d
+size 636

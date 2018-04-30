@@ -1,1 +1,3 @@
-La courte victoire d’Aubry lors du vote des militants pour le poste de premier secrétaire (42 voix d'avance) est contestée par Ségolène Royal qui demande un nouveau scrutin. Le PS, devant la multiplication des contestations, a décidé de réunir une commission composée de mandataires, de candidats et de responsables du PS, chargée d’examiner les contentieux électoraux. Cette commission transmettra un rapport au Conseil national qui décidera si Aubry est élue ou si un nouveau vote est organisé. Hollande souligne que le Conseil national tranchera en dernier ressort et invite à respecter le vote, les règles et les instances du PS.
+version https://git-lfs.github.com/spec/v1
+oid sha256:614d198e53e5ae53884431539fc149e7811a20523ea69d18948e8b33c244125e
+size 633

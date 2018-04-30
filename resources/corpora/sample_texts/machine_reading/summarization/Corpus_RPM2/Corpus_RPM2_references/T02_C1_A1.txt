@@ -1,1 +1,3 @@
-Le trader de la Caisse d'épargne, Boris Picano-Nacci, est soupçonné d'être à l'origine de la perte de 751 millions d'euros. Celui-ci a été placé en garde à vue suite à une plainte déposée par la banque pour abus de confiance car il aurait outrepassé les ordres de ses supérieurs. L'inspection générale de la banque a remis un rapport stipulant que cette perte était dûe à un problème de gestion des risques. Suite à cette affaire, les trois dirigeants de la banque, dont Charles Milhaud, ont remis leur démission. Le trader, lui, encourt jusqu'à trois ans d'emprisonnement et 375000 euros d'amendes.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc76651cf126779c2aa89c893337f8118338ec18539461f9b937a7a02ded2f1c
+size 599

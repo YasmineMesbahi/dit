@@ -1,1 +1,3 @@
-Alors que la mobilisation va croissant à l'encontre du fichier Edvige, un nouveau décret le modifiant en profondeur devrait être rapidement adopté pour tenter de désamorcer la polémique. Les personnalités ne seraient plus fichées, les renseignements concernant l'orientation sexuelle et la santé ne figureraient plus au fichier et les mineurs fichés bénéficieraient du droit à l'oubli comme l'avait demandé la Cnil. Cependant, de nombreuses associations et personnalités politiques de tous bords ont déposé des recours contre le fichier, le Conseil d'Etat sera amené à se prononcer sur sa légalité fin décembre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d660709177a5639817d88529832e25fc5b53c016e33b66e1a945f24be222dea
+size 611

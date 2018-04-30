@@ -1,1 +1,3 @@
-Le Conseil d'Etat devrait rendre sa décision sur la légalité d’Edvige en décembre. Sarkozy a exigé de ses ministres, Fillon et Alliot-Marie, une solution rapide pour désamorcer la controverse sur ce fichier qui a suscité de nombreuses critiques. Suite à une concertation lancée par Alliot-Marie, le décret a été profondément modifié en tenant compte des avis des associations et des recommandations de la commission des lois de l'Assemblée nationale. Un nouveau décret sera présenté à Sarkozy. Il passera encore une fois par la voie réglementaire. Alliot-Marie et Fillon espèrent faire taire la polémique et passer à autre chose.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0bc778dd4c5b27a5f484768336e2cce9199f08e3fe85167f6d46062be211cad
+size 629

@@ -1,1 +1,3 @@
-La colère des magistrats s'est amplifiée contre Rachida Dati et sa politique répressive et inefficace. Ils dénoncent notamment la pression exercée par la Chancellerie, les menaces à leur indépendance et les abus de pouvoir. Ainsi, l'ensemble des acteurs du monde judiciaire, magistrats, avocats, entre autres, ont manifesté dans toute la France pour exprimer leur ras-le-bol et demander la révision de certaines mesures. Face à cette grogne, Nicolas Sarkozy a accepté de recevoir des représentants de syndicats de magistrats qui se sont dits satisfaits de leur entretien. Le personnel pénitentiaire se sont également joints aux manifestations et ont réclamés plus d'effectifs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:145e0d541468a0061c0065d37f9a25d05462d15d70cc67c156f132b1973544e7
+size 676

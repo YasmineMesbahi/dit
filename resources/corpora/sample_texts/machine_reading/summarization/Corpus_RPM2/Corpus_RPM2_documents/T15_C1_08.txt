@@ -1,9 +1,3 @@
-La grossesse de Dati passionne la presse européenne
-Certains journaux européens sont revenus jeudi 4 septembre sur la grossesse de la Garde des Sceaux, Rachida Dati, après un démenti mercredi de l'ancien chef du gouvernement espagnol José Maria Aznar à une rumeur lui attribuant la paternité.
-EL MUNDO (Espagnol)
-Cet épisode illustre "comment internet à modifié les règles du jeu, servant de canal à la publication de rumeurs et informations non sourcés qui verraient difficilement le jour dans la presse traditionnelle, mais qui finissent quand même par s'y retrouver quand les personnes visées par la pseudo-information se voient forcées d'intervenir".
-LE CORRIERE DELLA SERA (Italie)
-"Le choix du silence (sur le nom du père) a un profond sens politique".
-"La femme qui affronte seule une maternité n'est plus une 'malheureuse' qui doit se cacher mais une femme fière (...) qui ne recule devant personne".
-DAILY TELEGRAPH.COM (Britannique) & HÜRRIYET (Turc)
-"Qui est le père de l'enfant de la ministre française?" 
+version https://git-lfs.github.com/spec/v1
+oid sha256:6540453a5d5a0aead72a166e7a6ea01ced14964178846001b1d3d97f5b86c8f7
+size 1025

@@ -1,1 +1,3 @@
-Lance Armstrong a annoncé sur le site de son équipe, Astana, sa participation au prochain Tour de France. Le parcours et la présence d'adversaires de taille a beaucoup motivé sa décision. De plus, il a discuté avec la direction du Tour qui l'a beaucoup rassuré au sujet de sa sécurité. Son retour au sein du peloton ne fait pas l'unanimité, de nombreux sportifs sont très sceptiques mais certains restent quand même admiratifs. En attendant, il pourra affronter, lors du Giro, Basso, Evans et Sastre. L'américain a toutefois indiqué avoir subi deux contrôles anti-dopage depuis l'annonce de son retour.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bf99a97b6f0e65495d8d40710f50bbc93db026c9b78b72b41fe6477e4f0740f
+size 604

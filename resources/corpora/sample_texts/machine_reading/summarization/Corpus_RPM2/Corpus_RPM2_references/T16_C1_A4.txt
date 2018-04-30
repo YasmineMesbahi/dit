@@ -1,1 +1,3 @@
-Justice, le grand ras-le-bol. Les magistrats, très en colère, se mobilisent contre Rachida Dati dont le bilan est aussi bien négatif sur le fond que sur la forme. Par ailleurs, ils se sentent traiter comme des boucs-émissaires et dénoncent des atteintes à leur statut. Ils reprochent également au ministre de menacer l’indépendance de la justice en abusant de son pouvoir. Les lois mises en place par la garde des sceaux sont très ambitieuses mais les moyens dont dispose le personnel judiciaire restent insuffisants. L’ensemble des professions judiciaires a ainsi manifesté partout en France contre la politique du ministre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5f29636b323f5fc7380d3da42367ba47f0a9920e722fd4efa85fccaf07997b1
+size 625

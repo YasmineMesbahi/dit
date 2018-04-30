@@ -1,1 +1,3 @@
-Des images inédites de la libération de Ingrid Betancourt ont été diffusées lundi 4 août par la télévision colombienne RCN. Elles rendent un hommage aux militaires qui ont réalisé cette opération. Betancourt commence une nouvelle vie. Après sa libération, elle a passé un mois de vacance d’été en compagnie de ses enfants aux Seychelles. Les interviews et les rencontres se succèdent. Betancourt sera reçue par le pape Benoît XVI le ler septembre. Le lendemain, elle devrait s'entretenir avec le président italien et le maire de Rome. Ensuite elle se rendra à Florence pour recevoir le titre de citoyenne d'honneur.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a675b527c377491484bb324adaf97107bfaded6aebca0aa211f58ee8356d510
+size 615

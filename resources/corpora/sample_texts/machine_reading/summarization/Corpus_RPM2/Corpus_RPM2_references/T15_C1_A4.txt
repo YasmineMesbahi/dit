@@ -1,1 +1,3 @@
-Rachida Dati est enceinte. La ministre de la justice, Rachida Dati est la première femme française d’origine maghrébine au poste de garde des Sceaux en France. À 42 ans, sans mari ni compagnon officiel et confirmant sa grossesse, il semble qu'elle soit la première ministre de droite dans ce cas. Certains pensent que cette maternité va aider à revaloriser son image et lui assurer ainsi de rester ministre jusqu’en 2012. D’autant plus qu’elle a précisé qu'elle n’envisageait pas de quitter son poste ni de réduire son activité ministérielle. Rachida Dati refuse de préciser le nom du père.
+version https://git-lfs.github.com/spec/v1
+oid sha256:055980d42d58d69a477a323ace9834109708fe858c8c5e692a4f205190b00f08
+size 590

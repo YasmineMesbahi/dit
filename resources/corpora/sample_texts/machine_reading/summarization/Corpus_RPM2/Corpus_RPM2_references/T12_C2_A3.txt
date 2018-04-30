@@ -1,1 +1,3 @@
-Pour son dernier JT sur TF1, Patrick Poivre d'Arvor, visiblement ému, a fait ses adieux en citant Shakespeare et souligné le "succès jamais démenti" de son journal. Il a d'ailleurs réalisé à cette occasion un très bon score d'audience. Le journaliste quitte donc TF1 à regret, mais fort du soutien des téléspectateurs (il a reçu 35000 lettres) et d'une indemnité de licenciement qui s'élèverait à 2,2 millions d'euros. Mais il n'entend pas disparaître du paysage audiovisuel pour autant et après ses vacances, il étudiera les nombreuses propositions de travail qu'on lui a adressées de part et d'autre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aabc8539e6696c7d6efc7f5dec41bc04a660eaf1375a6bd4bf3c3bfde2c380b5
+size 602

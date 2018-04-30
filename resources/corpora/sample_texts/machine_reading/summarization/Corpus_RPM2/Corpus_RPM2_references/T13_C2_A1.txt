@@ -1,1 +1,3 @@
-Les soldats cambodgiens et thaïlandais se sont affrontés pendant plus de deux heures près du temple de Preah Vihear. Les deux pays se sont mutuellement accusés d'avoir déclenché cette fusillade qui a fait une dizaine de victimes. Le ministre des affaires étrangères thaïlandaises, alors à Phnom Penh, a indiqué qu’il ne céderait pas à l’ultimatum lancé par Hun Sen qui demandait le retrait des soldats thaïlandais. Les troupes cambodgiennes et thaïlandaises se sont néanmoins repliées mais se font toujours face. Une réunion s'est tenue le 23 octobre afin de résoudre les conflits mais s'est soldée par un échec.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60e1d526da652598b18e35dd3e8162244515697e45e57a1de63ee48e3d52562f
+size 612

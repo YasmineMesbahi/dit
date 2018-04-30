@@ -1,1 +1,3 @@
-La Chine très remontée contre Sarkozy. Suite à la rencontre du président français avec le dalaï-lama, la Chine s’est mise très en colère. Elle a convoqué l’ambassadeur de France et lui a fait part de sa « vive protestation ». Sarkozy a transmis les inquiétudes du dalaï-lama et a ajouté souhaiter que la Chine prenne toute sa place dans la gouvernance mondiale. Alors que le dalaï-lama a félicité la France pour sa fermeté, la Chine l’a accusé de visées séparatistes. La Chine a non seulement annulé un sommet Union Européenne-Chine, prévu à Lyon, mais aussi un sommet franco-chinois.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89c8d9c1b9995c2ddb80237a4bda283e9a11dbc7364c889c7bdd035933b0a996
+size 584

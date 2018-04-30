@@ -1,1 +1,3 @@
-Le cycliste Lance Armstrong a annoncé son retour à la compétition en 2009. L'Agence française de lutte contre le dopage lui a proposé de nouvelles analyses pour couper aux rumeurs d'avoir utilisé de l'EPO en 1999. Il a refusé en argumentant que les échantillons n'ont pas été conservés correctement. Il participera au Giro d’Italie mais doute d’être présent au Tour de France à cause des problèmes avec les organisateurs et les fans. Le suspens dure mais les spécialistes assurent qu’il ne fera pas le Tour. Les raisons : son âge, l'opposition de la presse française et la concurrence avec Contador.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf883b85f7839788316ed7e70f2a812881b5334cfddbb689c3b8c33440b096b
+size 599

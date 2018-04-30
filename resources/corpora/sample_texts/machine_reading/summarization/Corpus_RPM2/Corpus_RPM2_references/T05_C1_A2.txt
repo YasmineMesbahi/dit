@@ -1,1 +1,3 @@
-Le fichier Edvige a été crée par un décret publié en juillet au Journal officiel. Il permet de recenser dès 13 ans des personnes jugées susceptibles de porter atteinte à l'ordre public, ainsi que des personnes exerçant un mandat politique, syndical ou économique. Edvige a suscité la polémique entre défenseurs des droits de l'homme, opposition et gouvernement car toute personne peut être fichée. Organisations associatives, syndicales et politiques se sont mobilisées pour demander le retrait du décret qui atteint aux libertés publiques et aux droits de l'homme. Plusieurs recours ont été déposés devant le Conseil d'Etat afin d'obtenir son annulation.
+version https://git-lfs.github.com/spec/v1
+oid sha256:782d229f2b92e2a6737316593d54ecdbf60daad92baa9143f3b729526e794e12
+size 655

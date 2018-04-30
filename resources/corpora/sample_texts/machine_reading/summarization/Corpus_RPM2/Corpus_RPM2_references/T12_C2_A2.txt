@@ -1,1 +1,3 @@
-Le dernier JT de Patrick Poivre d'Arvor a obtenu une forte audience. Il a terminé le JT sur une citation de Shakespeare et a laissé entendre qu'il ne disparaîtrait pas des écrans. Il a remercié TF1 et a diffusé des extraits de ses différentes interviews avec les derniers présidents. Un pot a eu lieu avec les membres de la rédaction. PPDA a refusé de commenter les rumeurs selon lesquelles son départ serait dû à des pressions politiques ou au montant de ses indemnités. Son avocat avait déjà démenti les rumeurs évoquant des indemnités comprises entre 3,8 et 4,5 millions d'euros.
+version https://git-lfs.github.com/spec/v1
+oid sha256:324bda1c672c026164e94fe85f62bb935b146888f04562259f2163f84bb306d1
+size 582

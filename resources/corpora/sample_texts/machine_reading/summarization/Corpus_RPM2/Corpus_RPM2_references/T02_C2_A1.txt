@@ -1,1 +1,3 @@
-Alors que la Caisse d'épargne s'apprête à fusionner avec la Banque Populaire, ses filiales Nexity et Natixis se retrouvent en difficulté. La dernière a indiqué une perte de 636 millions, conséquence directe de la crise financière. La Caisse d'épargne n'en pas finit  avec les problèmes, avec l'annonce d'une énorme perte pour l'année 2008. De plus, la commission bancaire a indiqué qu'il y avait eu au moment de la perte des 751 millions d'euros, un grave disfonctionnement au sein du service de contrôle interne. La CNCE est également secouée par des grèves de salariés qui réclament une revalorisation de leur salaire.
+version https://git-lfs.github.com/spec/v1
+oid sha256:18f40fac99484349a8a23a38f7f9f35e89634053f772bb8bd843bd80c64be58a
+size 620

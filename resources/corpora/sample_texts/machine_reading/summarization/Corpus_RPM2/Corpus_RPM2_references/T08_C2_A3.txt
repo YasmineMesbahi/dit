@@ -1,1 +1,3 @@
-Comme le laissaient présager les changements à la direction de l'ASO, la société qui organise le Tour de France, Lance Armstrong participera à l'édition 2009 de la grande boucle. Le tracé de l'épreuve, "innovant et très intéressant" d'après le champion, semble l'avoir décidé à y participer, ainsi que la perspective d'un duel avec Contador, son coéquipier depuis peu. La concurrence devrait être rude également sur le Giro, que disputeront de nombreux anciens champions. Dans l'ensemble, l'annonce du retour à la compétition de l'Américain a suscité étonnement et incompréhension, aussi bien chez les sportifs français que chez certains directeurs sportifs.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f657f53bc2ccda20965a79dbc09e15002a8fedba0e8aa65f3755de93f95e68c
+size 658

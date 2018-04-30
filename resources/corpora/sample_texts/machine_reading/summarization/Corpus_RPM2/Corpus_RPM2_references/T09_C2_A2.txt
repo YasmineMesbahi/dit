@@ -1,1 +1,3 @@
-Le rapport d'évaluation de la loi Leonetti rejette la légalisation de l'euthanasie même dans des cas exceptionnels, mais souhaite développer les soins palliatifs. Il recommande l'instauration d'un congé d'accompagnement rémunéré et la création d'un Observatoire des pratiques médicales de la fin de vie. Le débat est relancé. Les médecins approuvent que l’euthanasie n’est pas un acte médical. Le président de l’Association pour le droit de mourir dans la dignité dénonce une hypocrisie qui devrait susciter la colère des familles. Une rencontre des parlementaires UMP et PS est annoncée pour déposer une proposition de loi sur l'aide active à mourir.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea30250e21964ed34312d6628ba82d4a94f9af294a387765f1f620606398930e
+size 651

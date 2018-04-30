@@ -1,1 +1,3 @@
-Enfant perdu à Marseille. L’enfant perdu par une nourrice en situation irrégulière, alors que sa mère était en Algérie pour aller voir sa propre mère souffrante, a été retrouvé. La nourrice reste introuvable et la mère placée en garde à vue dès son retour a été remise en liberté. L’affaire n’est pas claire. La nourrice toujours introuvable ne s'est pas manifesté lors de l’appel à témoins qui a été lancé en vue de reconnaître le petit. L’enfant placé dans une famille ne sera rendu à la mère que s'il est prouvé qu'elle est apte à s’en occuper.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf1470984e55aed86670e062ada8012589226cb9474bcdbb9ce30ab239885eeb
+size 549

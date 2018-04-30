@@ -1,1 +1,3 @@
-Les comptes français. Avec la crise financière mondiale, de nombreuses questions se soulèvent aux épargnants et emprunteurs. On sait qu’il sera difficile d’obtenir un crédit, et si le cas se presente, le taux sera plus élevé et revisable. En plus les banques risquent de prêter sur des périodes de moins en moins longues. Par rapport aux effectifs des banques, de nombreux emplois sont supprimés. Dans ce contexte L’État français rappelle aux dirigeants des banques et assurances françaises « leur mission prioritaire de financement de l’économie ». De leur côté les banquiers rassurent en parlant d’un dispositif français solide et stable.
+version https://git-lfs.github.com/spec/v1
+oid sha256:016599f3e15e2b3d44cfc4f80e0b9edf19ad4b5835426e8d3486940aab34516f
+size 642

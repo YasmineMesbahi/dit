@@ -1,1 +1,3 @@
-L’enfant trouvé à Marseille n’est finalement pas le fils biologique de celle qui prétendait être sa mère. Cette dernière s’est défendue en se disant en règle et ayant adopté le petit en Algérie sous la « Kalafa » d’une mère qui ne pouvait garder l’enfant sans qu'un père l'ait reconnu. La nounou reste, quant à elle, introuvable. La mère supposée qui réclame Mohamed a un parcours chaotique, le petit a donc été confié aux services sociaux. Elle a été mise en examen pour substitution d’enfant, faux en écriture publique et aide au séjour irrégulier. L’identité de l’enfant reste donc inconnue.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8ac3a38ac1115bc1a7f213fff77e5b5f35acca4b4167ac37dd4b00bde0fb839
+size 594

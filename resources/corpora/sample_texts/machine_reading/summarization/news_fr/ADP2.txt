@@ -1,22 +1,3 @@
-Un accord juste et différencié.
-
-Face au défi climatique, l’accord reconnait une responsabilité partagée mais différenciée des Etats, c’est-à-dire en fonction des capacités respectives et des contextes nationaux différents.
-Il prend notamment en compte le niveau de développement et les besoins spécifiques des pays particulièrement vulnérables. Outre les engagements financiers, les pays industrialisés devront faciliter les transferts de technologie, et plus largement l’adaptation à une économie dé-carbonée.
-En matière de transparence, un système permettant le suivi des engagements nationaux, avec une certaine flexibilité pour les pays en développement, est également institué afin de suivre les efforts de chacun.
-
-
-Un accord durable & dynamique.
-
-L’accord a vocation à contenir l’augmentation moyenne de la température nettement en dessous de 2 degrés par rapport aux niveaux préindustriels et à poursuivre l’action menée pour limiter l’élévation des températures à 1,5°.
-Pour cela, l’Accord de Paris prévoit que chacun des pays revoie tous les cinq ans ses engagements pour diminuer ses émissions de gaz à effet de serre. Chaque nouvelle contribution déterminée au niveau national devra intégrer une progression par rapport à la précédente.
-Les Parties se sont engagées à parvenir à un pic des émissions mondiales de gaz à effet de serre dans les meilleurs délais, afin de parvenir à un équilibre entre les émissions et leurs compensations dans la 2ème partie du siècle. Les Etats sont également tenus d’accroître leurs efforts d’atténuation et de réduction de leurs émissions de gaz à effets de serre.
-
-Universel et juridiquement contraignant.
-
-Les 195 Etats Parties à la négociation se sont engagés à formuler des stratégies de développement à faible émission de gaz à effet de serre sur le long terme. C’est la première fois qu’un accord universel est conclu en matière de lutte contre le dérèglement climatique.
-Certaines règles juridiquement contraignantes s’appliqueront aux Etats parties, comme l’obligation pour les pays développés d’apporter un soutien financier aux pays en développement pour la mise en œuvre de l’accord.
-
-Et après ?
-
-L’accord a été ouvert à la signature des Etats le 22 avril 2016 à New York pour une entrée en vigueur en 2020. La décision de la COP 21 qui accompagne l’accord fixe plusieurs étapes pour accompagner et préparer sa mise en œuvre : réexamen des contributions en 2018, mobilisation des financements pour atteindre un plancher de 100 milliards de dollars par an en 2020.
-L’accord reconnait l’action des acteurs non-gouvernementaux, qui sont d’ores et déjà mobilisés, à l’image de l’Appel de Paris par lequel 800 entreprises, investisseurs, villes et régions du monde s’engagent à dépasser le niveau d’ambition énoncé par l’Accord de Paris sur les changements climatiques.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e84ad7df2b3061f8c045e54833e5ffb2c2c85246978aac26082ed5e75f953d18
+size 2843

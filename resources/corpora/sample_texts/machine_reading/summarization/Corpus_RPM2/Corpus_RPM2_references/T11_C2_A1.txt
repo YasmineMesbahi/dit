@@ -1,1 +1,3 @@
-Barack Obama a achevé le 19 décembre la formation de son équipe de 15 ministres et de 6 membres de l’administration. On pourra y retrouver Hillary Clinton à la tête du département d’Etat, ce qui ne semble pas plaire à la Russie. Le mot d’ordre de cette formation semble être la diversité puisqu’elle comprend deux hispaniques, Bill Richardson et Hilda Solis, respectivement, secrétaire au Commerce et secrétaire du Travail ainsi qu’un secrétaire à l’Energie d’origine chinoise. Obama a également fait appel à des républicains tels que James Jones et Robert Gates pour rejoindre son équipe. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0620c95ee4c8dc699e22ebe3e0f7c8a6fbf86d073b6eb01fbc8115b97cb6cb2
+size 590

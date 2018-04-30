@@ -1,1 +1,3 @@
-La réforme de la classe de seconde. La réforme du lycée vise un lycée plus souple avec plus d’autonomie, les lycéens travailleraient par semestre et pourraient changer de matière au deuxième semestre. La réforme prévoit de distinguer « enseignements généraux », « enseignements complémentaires » et « accompagnement ». De nombreux enseignants et lycéens ont manifestés contre la réforme et contre les prévisions de suppression de postes pour 2009. L’union nationale des lycéens rejette cette réforme : pour eux l’éducation ne peut rendre certaines matières importantes facultatives, ce qui pousserait les élèves à ne pas travailler.
+version https://git-lfs.github.com/spec/v1
+oid sha256:751e8ce3e72ccb5deaf0ec5407324e74fd8ef9073f400e04dbb9d2c7afae98ca
+size 632

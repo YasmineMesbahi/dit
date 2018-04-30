@@ -1,1 +1,3 @@
-Nicolas Sarkozy aurait annoncé la suppression de la publicité sur la télévision publique. Pour combler le manque à gagner, une taxe pour les fournisseurs d'accès Internet, les opérateurs mobiles et les télévisions privées sera appliquée. D’ailleurs, la redevance sera indexée sur l'inflation et le président du groupe sera nommé par l’exécutif. Ces mesures recommandées par la commission Copé, modifiées par Sarkozy, ont été fortement critiquées pas les professionnels et contestées par une grève des salariés. Les patrons des chaînes privées se sont opposés à toute taxation mais après une proposition favorable à une deuxième coupure publicitaire, ils sont désormais calmés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fe29bf10b7d8c7b93a7b9da52e672efd762e36ca803193320d91f9c2dd93769
+size 676

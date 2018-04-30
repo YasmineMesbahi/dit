@@ -1,1 +1,3 @@
-Le fichier Edvige est jugé “inacceptable”. Le fichier Edvige (Exploitation documentaire et valorisation de l’information générale) a été créé par un décret paru dans le journal officiel. Il permet de recenser dès 13 ans des personnes jugées « susceptibles de porter atteinte à l’ordre public » et des personnes jouant un rôle « institutionnel, économique, social ou religieux significatif ». De nombreuses organisations syndicales et de défense des droits de l’homme s’y opposent et ont déposé un recours. Le ministère de l’Intérieur défend la création de ce fichier comme un outil permettant de lutter contre la délinquance juvénile.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26608ad7448fbb8d899205deedbabd208dccffd31e9726695b15d5af91d63a40
+size 634

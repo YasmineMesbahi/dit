@@ -1,1 +1,3 @@
-La création du fichier Edvige par décret a suscité une vive polémique auprès de plusieurs organisations et politiques qui ont déposé des recours pour son annulation. De plus, il a été publié sans prise en compte des réserves de la CNIL. Les opposants reprochent à ce fichier de porter atteinte à la vie privée ainsi qu'aux libertés publiques et politiques. Le point suscitant le plus de réserves est l'abaissement de l'âge de fichage à 13 ans, qui est considéré comme un étiquetage "hypothétique" des futurs délinquants. Une pétition circule depuis le 10 juillet et a déjà rassemblé 50000 signatures.
+version https://git-lfs.github.com/spec/v1
+oid sha256:040d5525308069b60ef535e637b1a991382b7cc50a2af20561e1990afd15f657
+size 600

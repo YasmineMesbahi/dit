@@ -1,1 +1,3 @@
-Syndicats, associations et personnalités du monde politique demandent la suppression du fichier Edvige (pour Exploitation documentaire et valorisation de l'information générale). Ce nouveau fichier policier permettrait de recenser, outre des militants syndicaux, politiques, associatifs et religieux, les personnes "susceptibles de porter atteinte à l'ordre public", et cela dès l'âge de 13 ans. C'est surtout sur ce dernier point que se sont élevées des voix, le fichage des mineurs à titre préventif apparaissant comme bien trop subjectif. Par ailleurs, nombreux sont ceux qui s'inquiètent de la surveillance de plus en plus généralisée des citoyens.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8e94defef6ff70bca3ed48ef853d429026cb6523e04b5c77958b0db032c0d8a
+size 652

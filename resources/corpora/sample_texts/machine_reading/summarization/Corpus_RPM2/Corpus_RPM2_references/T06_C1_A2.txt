@@ -1,1 +1,3 @@
-Les JO de Pékin se sont ouverts après une grandiose cérémonie. Supervisée par Zhang Yimou, elle a offert au monde un spectacle de prouesses techniques et de performances humaines vantant la culture millénaire du pays. La cérémonie était sous-pression à cause de manifestations qui se sont multipliées dans le monde et du piratage d’une fréquence FM à Pékin. Même si les blogs chinois ont révélé diverses tricheries lors de la cérémonie, la Chine a démontré sa puissance et son esthétisme, ce qui a exalté la fierté nationale et a fait de ces JO les plus imposants de l'Histoire.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9930782edd7de726f9380066f96ec13a4bca1e414f23f0f4549a0440c3b28ab
+size 578
