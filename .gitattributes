@@ -4,3 +4,4 @@
 *[[:space:]].txt filter=lfs diff=lfs merge=lfs -text
 *.jsonl filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
+*.gensim filter=lfs diff=lfs merge=lfs -text
