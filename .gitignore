@@ -1,0 +1,6 @@
+.idea/
+machine_reading/summarization/word_vectors.npy
+*.npy
+*.html
+*.pickle
+__pycache__
